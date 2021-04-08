@@ -1,0 +1,1751 @@
+make[1]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/MakeCommon'
+make[2]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt'
+make[2]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt'
+make[2]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Alg'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamCAL/ipl_cal_sample_ff'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/dev_cam_ipl_ext_com'
+make[2]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Alg'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ahd_ff'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtAC108'
+
+
+Checking eCos - IPL_CAL_SAMPLE_FF release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamCAL/ipl_cal_sample_ff'
+Checking eCos - IPL_DEV_CAM_COM release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/dev_cam_ipl_ext_com'
+
+Checking eCos - IPL_AHD_FF release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ahd_ff'
+Compiling ipl_ext_cmd.c
+
+Checking eCos - Audio_ExtAC108 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtAC108'
+Compiling ipl_cal_ctrl_sample_ff.c
+Compiling ipl_mode_ahd_ff.c
+Compiling ac108.c
+Compiling ac108_ver.c
+Compiling ipl_dzoom_tab_ahd_ff.c
+Creating library Audio_ExtAC108.a ...
+Audio_ExtAC108.a: SHA.D8FB3F89
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtAC108'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtAC108'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtAIC3254'
+Compiling ipl_cal_cmd_sample_ff.c
+Creating library IPL_AHD_FF.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ahd_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ahd_ff'
+Compiling ipl_cal_setting_sample_ff.c
+
+Checking eCos - Audio_ExtAIC3254 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtAIC3254'
+Compiling ipl_ext_isr.c
+Compiling AIC3254.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0237_ff'
+Compiling ipl_ext_buffer.c
+Creating library Audio_ExtAIC3254.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtAIC3254'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtAIC3254'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtEMU'
+
+Checking eCos - IPL_AR0237_FF release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0237_ff'
+
+Checking eCos - Audio_ExtEMU release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtEMU'
+Compiling ipl_mode_ar0237_ff.c
+Compiling ipl_ext_ctrl.c
+Compiling AudExtEMU.c
+Creating library IPL_CAL_SAMPLE_FF.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamCAL/ipl_cal_sample_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamCAL/ipl_cal_sample_ff'
+Compiling AudExtEMU_ver.c
+Compiling ipl_dzoom_tab_ar0237_ff.c
+Creating library Audio_ExtEMU.a ...
+Audio_ExtEMU.a: SHA.288D4410
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtEMU'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtEMU'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtWM8978'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/BlueTooth/Broadcom'
+
+Checking eCos - Audio_ExtWM8978 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtWM8978'
+
+Checking eCos - BT_Brcm release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/BlueTooth/Broadcom'
+Creating library IPL_AR0237_FF.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0237_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0237_ff'
+Compiling ipl_ext_ctrl_flow_common.c
+Compiling WM8978.c
+Compiling BT_Brcm.c
+Compiling WM8978_ver.c
+Compiling BT_BrcmID.c
+Creating library Audio_ExtWM8978.a ...
+Audio_ExtWM8978.a: SHA.71BED401
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtWM8978'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Audio/Audio_ExtWM8978'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ALT027ISLNJ2_ILI8961'
+Compiling wiced_bt_cfg.c
+
+Compiling bt_rfc_server.c
+Checking eCos - Disp_IF8B_LCD1_ALT027ISLNJ2_ILI8961 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ALT027ISLNJ2_ILI8961'
+Compiling dispdev_IF8bits.c
+Compiling rfc_sdp_db.c
+Compiling bt_le_reporter.c
+Compiling ALT027ISLNJ2_ILI8961.c
+Compiling wiced_bt_rfcbte_gatt_db.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_AUCN01'
+Compiling hoGP.c
+
+Checking eCos - Disp_IF8B_LCD1_AUCN01 release target ...
+Creating library Disp_IF8B_LCD1_ALT027ISLNJ2_ILI8961.a ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_AUCN01'
+Compiling ipl_ext_flow_cb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ALT027ISLNJ2_ILI8961'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ALT027ISLNJ2_ILI8961'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0330_ff'
+Compiling dispdev_IF8bits.c
+
+Checking eCos - IPL_AR0330_FF release target ...
+Compiling bt_smart_service.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0330_ff'
+Compiling AUCN01.c
+Compiling ipl_mode_ar0330_ff.c
+Compiling upio_uITRON.c
+Creating library Disp_IF8B_LCD1_AUCN01.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_AUCN01'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_AUCN01'
+Compiling ipl_dzoom_tab_ar0330_ff.c
+Compiling ipl_ext_d2d_cb.c
+Compiling brcm_patch-43438-26M.c
+Compiling userial_uITRON.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0521_ff'
+Creating library IPL_AR0330_FF.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0330_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0330_ff'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_fake'
+
+Checking eCos - IPL_AR0521_FF release target ...
+Compiling ipl_ext_extend_func.c
+
+Checking eCos - IPL_FAKE release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0521_ff'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_fake'
+Compiling ipl_mode_ar0521_ff.c
+Compiling ipl_fake.c
+Compiling utron_utils.c
+Creating library IPL_FAKE.a ...
+IPL_FAKE.a: SHA.A5627C16
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_fake'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_fake'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_os05a10m_ff'
+Creating library BT_Brcm.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/BlueTooth/Broadcom'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/BlueTooth/Broadcom'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ILI9342C'
+
+Checking eCos - IPL_OS05A10M_FF release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_os05a10m_ff'
+Compiling ipl_dzoom_tab_ar0521_ff.c
+
+Checking eCos - Disp_IF8B_LCD1_ILI9342C release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ILI9342C'
+Compiling dispdev_IF8bits.c
+Creating library IPL_DEV_CAM_COM.a ...
+Compiling ipl_mode_os05a10m_ff.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/dev_cam_ipl_ext_com'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/dev_cam_ipl_ext_com'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ov4689_ff'
+Compiling ILI9342C.c
+Creating library IPL_AR0521_FF.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0521_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ar0521_ff'
+
+Checking eCos - IPL_OV4689_FF release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_sample_ff'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ov4689_ff'
+Creating library Disp_IF8B_LCD1_ILI9342C.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ILI9342C'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ILI9342C'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_LC4300DBW'
+
+Checking eCos - IPL_SAMPLE_FF release target ...
+Compiling ipl_mode_ov4689_ff.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_sample_ff'
+
+Checking eCos - Disp_IF8B_LCD1_LC4300DBW release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_LC4300DBW'
+Compiling ipl_dzoom_tab_os05a10m_ff.c
+Compiling dispdev_IF8bits.c
+Compiling ipl_mode_sample_ff.c
+Creating library IPL_OS05A10M_FF.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_os05a10m_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_os05a10m_ff'
+Compiling LC4300DBW.c
+Compiling ipl_dzoom_tab_ov4689_ff.c
+Creating library Disp_IF8B_LCD1_LC4300DBW.a ...
+Compiling ipl_dzoom_tab_sample_ff.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_LC4300DBW'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_LC4300DBW'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_PW35P00_HX8238D'
+
+Checking eCos - Disp_IF8B_LCD1_PW35P00_HX8238D release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_PW35P00_HX8238D'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_T43P53'
+Compiling dispdev_IF8bits.c
+Creating library IPL_OV4689_FF.a ...
+Creating library IPL_SAMPLE_FF.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ov4689_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_ov4689_ff'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_sim_ff'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_sample_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_sample_ff'
+
+Checking eCos - Disp_IF8B_LCD1_T43P53 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_T43P53'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_tp2825_ff'
+
+Checking eCos - IPL_SIM_FF release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_sim_ff'
+Compiling dispdev_IF8bits.c
+
+Checking eCos - IPL_TP2825_FF release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_tp2825_ff'
+Compiling PW35P00.c
+Compiling ipl_mode_sim_ff.c
+Compiling ipl_mode_tp2825_ff.c
+Creating library Disp_IF8B_LCD1_PW35P00_HX8238D.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_PW35P00_HX8238D'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_PW35P00_HX8238D'
+Compiling T43P53.c
+Compiling ipl_dzoom_tab_tp2825_ff.c
+Creating library Disp_IF8B_LCD1_T43P53.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_T43P53'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_T43P53'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_TXDT270C_8961_6A6'
+
+Checking eCos - Disp_IF8B_LCD1_TXDT270C_8961_6A6 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_TXDT270C_8961_6A6'
+Compiling ipl_dzoom_tab_sim_ff.c
+Compiling dispdev_IF8bits.c
+Compiling TXDT270C.c
+Creating library IPL_TP2825_FF.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_tp2825_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_tp2825_ff'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0237_evb'
+Creating library IPL_SIM_FF.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_sim_ff'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIPL/ipl_sim_ff'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_TXDT270C_8961_6A6_R2'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0237_rgbir_evb'
+
+Checking eCos - IQ_PARAM_AR0237_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0237_evb'
+Creating library Disp_IF8B_LCD1_TXDT270C_8961_6A6.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_TXDT270C_8961_6A6'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_TXDT270C_8961_6A6'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ZHIDING_FY30002_ILI8961'
+
+Checking eCos - Disp_IF8B_LCD1_TXDT270C_8961_6A6_R2 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_TXDT270C_8961_6A6_R2'
+
+Checking eCos - IQ_PARAM_AR0237_RGBIR_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0237_rgbir_evb'
+Compiling iq_param_table1_ar0237_evb.c
+
+Checking eCos - Disp_IF8B_LCD1_ZHIDING_FY30002_ILI8961 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ZHIDING_FY30002_ILI8961'
+Compiling dispdev_IF8bits.c
+Compiling iq_param_table1_ar0237_rgbir_evb.c
+Compiling TXDT270C_R2.c
+Compiling dispdev_IF8bits.c
+Compiling iq_param_mode_ar0237_evb.c
+Creating library Disp_IF8B_LCD1_TXDT270C_8961_6A6_R2.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_TXDT270C_8961_6A6_R2'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_TXDT270C_8961_6A6_R2'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_A030VN01'
+
+Checking eCos - Disp_IFPA_LCD1_A030VN01 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_A030VN01'
+Compiling iq_param_mode_ar0237_rgbir_evb.c
+Compiling ZHIDING_FY30002_ILI8961.c
+Compiling dispdev_IFParal.c
+Compiling iq_param_common_ar0237_rgbir_evb.c
+Compiling iq_param_common_ar0237_evb.c
+Creating library Disp_IF8B_LCD1_ZHIDING_FY30002_ILI8961.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ZHIDING_FY30002_ILI8961'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IF8B_LCD1_ZHIDING_FY30002_ILI8961'
+Compiling A030VN01.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_JL_0316IVO_ST7701S'
+Creating library IQ_PARAM_AR0237_RGBIR_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0237_rgbir_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0237_rgbir_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0330_evb'
+
+Checking eCos - Disp_IFPA_LCD1_JL_0316IVO_ST7701S release target ...
+Creating library Disp_IFPA_LCD1_A030VN01.a ...
+Creating library IQ_PARAM_AR0237_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_A030VN01'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_A030VN01'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_JL_0316IVO_ST7701S'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_LT8918_WTL096601G03'
+
+Checking eCos - IQ_PARAM_AR0330_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0330_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0237_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0237_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_LT8918_WTL097601G02'
+Compiling iq_param_table1_ar0330_evb.c
+
+Checking eCos - Disp_IFPA_LCD1_LT8918_WTL096601G03 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_LT8918_WTL096601G03'
+
+Checking eCos - Disp_IFPA_LCD1_LT8918_WTL097601G02 release target ...
+Compiling dispdev_IFParal.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_LT8918_WTL097601G02'
+Compiling dispdev_IFParal.c
+Compiling dispdev_IFParal.c
+Compiling ST7701S.c
+Compiling iq_param_mode_ar0330_evb.c
+Creating library Disp_IFPA_LCD1_JL_0316IVO_ST7701S.a ...
+Compiling LT8918_WTL096601G03.c
+Compiling LT8918_WTL097601G02.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_JL_0316IVO_ST7701S'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_JL_0316IVO_ST7701S'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01'
+Compiling iq_param_common_ar0330_evb.c
+Compiling LT8918_param.c
+Compiling LT8918_param.c
+
+Checking eCos - Disp_IFPA_LCD1_MD090TL01 release target ...
+Creating library Disp_IFPA_LCD1_LT8918_WTL097601G02.a ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_LT8918_WTL097601G02'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_LT8918_WTL097601G02'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_NT53001'
+Compiling dcs.c
+Creating library IQ_PARAM_AR0330_EVB.a ...
+Compiling dispdev_IFParal.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0330_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0330_evb'
+
+Checking eCos - Disp_IFPA_LCD1_NT53001 release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0521_evb'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_NT53001'
+
+Checking eCos - IQ_PARAM_AR0521_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0521_evb'
+Creating library Disp_IFPA_LCD1_LT8918_WTL096601G03.a ...
+Compiling dispdev_IFParal.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_LT8918_WTL096601G03'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_LT8918_WTL096601G03'
+Compiling MD090TL01.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ccir_evb'
+Compiling iq_param_table1_ar0521_evb.c
+
+Checking eCos - IQ_PARAM_CCIR_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ccir_evb'
+Compiling NT53001.c
+Creating library Disp_IFPA_LCD1_MD090TL01.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01'
+Compiling iq_param_mode_ar0521_evb.c
+Compiling iq_param_table1_ccir_evb.c
+Compiling iq_param_common_ar0521_evb.c
+Creating library Disp_IFPA_LCD1_NT53001.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_NT53001'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_NT53001'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_SII9024'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_T30P106'
+
+Checking eCos - Disp_IFPA_LCD1_T30P106 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_T30P106'
+
+Checking eCos - Disp_IFPA_LCD1_SII9024A release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_SII9024'
+Creating library IQ_PARAM_AR0521_EVB.a ...
+Compiling dispdev_IFParal.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0521_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ar0521_evb'
+Compiling dispdev_IFParal.c
+Compiling T30P106.c
+Compiling iq_param_mode_ccir_evb.c
+Compiling SII9024A.c
+Creating library Disp_IFPA_LCD1_T30P106.a ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_PANELCOMMON'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_T30P106'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_T30P106'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_gc2053_evb'
+Creating library Disp_IFPA_LCD1_SII9024A.a ...
+
+Checking eCos - Disp_PANELCOMMON release target ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_SII9024'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_SII9024'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_PANELCOMMON'
+Compiling iq_param_common_ccir_evb.c
+
+Checking eCos - IQ_PARAM_GC2053_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_gc2053_evb'
+Compiling dispdev_panlcomn.c
+Compiling iq_param_mode_gc2053_evb.c
+Compiling iq_param_table1_gc2053_evb.c
+Creating library IQ_PARAM_CCIR_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ccir_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ccir_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx290_evb'
+Creating library Disp_PANELCOMMON.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_PANELCOMMON'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_PANELCOMMON'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_VIRTUAL_LCD1_OFF'
+Compiling iq_param_common_gc2053_evb.c
+
+Checking eCos - IQ_PARAM_IMX290_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx290_evb'
+
+Checking eCos - Disp_VIRTUAL_LCD1_OFF release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_VIRTUAL_LCD1_OFF'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx291_evb'
+Compiling iq_param_table1_imx290_evb.c
+
+Checking eCos - IQ_PARAM_IMX291_EVB release target ...
+Compiling OFF.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx291_evb'
+Compiling iq_param_table1_imx291_evb.c
+Creating library IQ_PARAM_GC2053_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_gc2053_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_gc2053_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx307_evb'
+Creating library Disp_VIRTUAL_LCD1_OFF.a ...
+
+Checking eCos - IQ_PARAM_IMX307_EVB release target ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_VIRTUAL_LCD1_OFF'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_VIRTUAL_LCD1_OFF'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx307_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevTV/Disp_TV'
+Compiling iq_param_mode_imx290_evb.c
+
+Checking eCos - Disp_TV release target ...
+Compiling iq_param_table1_imx307_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevTV/Disp_TV'
+Compiling iq_param_mode_imx291_evb.c
+Compiling dispdev_tv.c
+Compiling iq_param_common_imx290_evb.c
+Compiling iq_param_common_imx291_evb.c
+Creating library Disp_TV.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevTV/Disp_TV'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevTV/Disp_TV'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GPS'
+Creating library IQ_PARAM_IMX290_EVB.a ...
+Compiling iq_param_mode_imx307_evb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx290_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx290_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx317_evb'
+
+Checking eCos - GPS release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GPS'
+Compiling GPS.c
+Creating library IQ_PARAM_IMX291_EVB.a ...
+
+Checking eCos - IQ_PARAM_IMX317_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx317_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx291_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx291_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx335_evb'
+
+Checking eCos - IQ_PARAM_IMX335_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx335_evb'
+Compiling iq_param_common_imx307_evb.c
+Compiling iq_param_table1_imx317_evb.c
+Compiling iq_param_table1_imx335_evb.c
+Creating library IQ_PARAM_IMX307_EVB.a ...
+Creating library GPS.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx307_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx307_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GPS'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GPS'
+Compiling iq_param_mode_imx335_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_BMA253'
+Compiling iq_param_mode_imx317_evb.c
+
+Checking eCos - GSensor_BMA253 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_BMA253'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx377_evb'
+Compiling GSensor.c
+Compiling iq_param_common_imx335_evb.c
+
+Checking eCos - IQ_PARAM_IMX377_EVB release target ...
+Compiling iq_param_common_imx317_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx377_evb'
+Compiling GSensor_BMA253.c
+Compiling iq_param_table1_imx377_evb.c
+Creating library IQ_PARAM_IMX335_EVB.a ...
+Creating library GSensor_BMA253.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx335_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx335_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_jxk02_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_BMA253'
+Creating library IQ_PARAM_IMX317_EVB.a ...
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_BMA253'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_Combo'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx317_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx317_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_jxk03_evb'
+
+Checking eCos - IQ_PARAM_JXK02_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_jxk02_evb'
+
+Checking eCos - IQ_PARAM_JXK03_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_jxk03_evb'
+
+Checking eCos - GSensor_Combo release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_Combo'
+Compiling iq_param_table1_jxk02_evb.c
+Compiling iq_param_table1_jxk03_evb.c
+Compiling GSensor.c
+Compiling iq_param_mode_imx377_evb.c
+Compiling GSensor_Combo.c
+Compiling GSensor_None.c
+Compiling iq_param_common_imx377_evb.c
+Compiling iq_param_mode_jxk02_evb.c
+Compiling GSensor_BMA253.c
+Compiling iq_param_mode_jxk03_evb.c
+Creating library IQ_PARAM_IMX377_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx377_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_imx377_evb'
+Compiling GSensor_SC7A20.c
+Compiling iq_param_common_jxk02_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_os05a10_evb'
+Compiling Gsensor_DMA380.c
+Compiling iq_param_common_jxk03_evb.c
+Creating library IQ_PARAM_JXK02_EVB.a ...
+
+Checking eCos - IQ_PARAM_OS05A10_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_os05a10_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_jxk02_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_jxk02_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_DRAMD07'
+
+Compiling iq_param_table1_os05a10_evb.c
+Checking eCos - GSensor_DRAMD07 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_DRAMD07'
+Creating library GSensor_Combo.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_Combo'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_Combo'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_GMA301'
+Compiling GSensor.c
+Creating library IQ_PARAM_JXK03_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_jxk03_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_jxk03_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_os08a10_evb'
+
+Checking eCos - GSensor_GMA301 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_GMA301'
+Compiling GSensor.c
+
+Checking eCos - IQ_PARAM_OS08A10_EVB release target ...
+Compiling iq_param_mode_os05a10_evb.c
+Compiling GSensor_DRAMD07.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_os08a10_evb'
+Compiling GSensor_GMA301.c
+Creating library GSensor_DRAMD07.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_DRAMD07'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_DRAMD07'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_KXTJ2'
+Compiling iq_param_table1_os08a10_evb.c
+Compiling iq_param_common_os05a10_evb.c
+Creating library GSensor_GMA301.a ...
+
+Checking eCos - GSensor_KXTJ2 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_KXTJ2'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_GMA301'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_GMA301'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_LIS3DH'
+Compiling GSensor.c
+
+Checking eCos - GSensor_LIS3DH release target ...
+Creating library IQ_PARAM_OS05A10_EVB.a ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_LIS3DH'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_os05a10_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_os05a10_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov2735_evb'
+Compiling iq_param_mode_os08a10_evb.c
+Compiling GSensor_KXTJ2.c
+
+Checking eCos - IQ_PARAM_OV2735_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov2735_evb'
+Compiling GSensor.c
+Creating library GSensor_KXTJ2.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_KXTJ2'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_KXTJ2'
+Compiling iq_param_common_os08a10_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_None'
+Compiling iq_param_table1_ov2735_evb.c
+Compiling GSensor_LIS3DH.c
+
+Checking eCos - GSensor_None release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_None'
+Creating library IQ_PARAM_OS08A10_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_os08a10_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_os08a10_evb'
+Compiling iq_param_mode_ov2735_evb.c
+Creating library GSensor_LIS3DH.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_LIS3DH'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_LIS3DH'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_EWTS9PDN21'
+Compiling iq_param_common_ov2735_evb.c
+Compiling GSensor.c
+
+Checking eCos - Gyro_EWTS9PDN21 release target ...
+Compiling GSensor_None.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_EWTS9PDN21'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov4689_evb'
+Creating library GSensor_None.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_None'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/GSensor/GSensor_None'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ICG20630'
+Creating library IQ_PARAM_OV2735_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov2735_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov2735_evb'
+
+Checking eCos - Gyro_ICG20630 release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ICG20660'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ICG20630'
+
+Checking eCos - IQ_PARAM_OV4689_EVB release target ...
+Compiling Gyro_EWTS9PDN21.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov4689_evb'
+
+Checking eCos - Gyro_ICG20660 release target ...
+Compiling Gyro_ICG20630.c
+Compiling iq_param_table1_ov4689_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ICG20660'
+Creating library Gyro_EWTS9PDN21.a ...
+Compiling Gyro_ICG20660.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_EWTS9PDN21'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_EWTS9PDN21'
+Compiling iq_param_mode_ov4689_evb.c
+Creating library Gyro_ICG20630.a ...
+Compiling iq_param_common_ov4689_evb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ICG20630'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ICG20630'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ITG1010A'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ITG3500A'
+Creating library Gyro_ICG20660.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ICG20660'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ICG20660'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_LSM6DS33'
+
+Checking eCos - Gyro_ITG3500A release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ITG3500A'
+
+Checking eCos - Gyro_ITG1010A release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ITG1010A'
+
+Checking eCos - Gyro_LSM6DS33 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_LSM6DS33'
+Compiling Gyro_ITG1010A.c
+Compiling Gyro_LSM6DS33.c
+Compiling Gyro_ITG3500A.c
+Creating library IQ_PARAM_OV4689_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov4689_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov4689_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov5658_evb'
+Creating library Gyro_ITG1010A.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ITG1010A'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ITG1010A'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_None'
+
+Checking eCos - IQ_PARAM_OV5658_EVB release target ...
+Creating library Gyro_ITG3500A.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ITG3500A'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_ITG3500A'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_AN41908'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov5658_evb'
+
+Checking eCos - Gyro_None release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_None'
+Compiling iq_param_table1_ov5658_evb.c
+Creating library Gyro_LSM6DS33.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_LSM6DS33'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_LSM6DS33'
+Compiling iq_param_mode_ov5658_evb.c
+Compiling Gyro_None.c
+
+Checking eCos - LENSDRV_AN41908 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_AN41908'
+Creating library Gyro_None.a ...
+Compiling LensDrv_AN41908.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_None'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Gyro/Gyro_None'
+Compiling iq_param_common_ov5658_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ps5250_evb'
+
+Checking eCos - IQ_PARAM_PS5250_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ps5250_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_LV8044'
+Compiling iq_param_table1_ps5250_evb.c
+
+Checking eCos - LENSDRV_LV8044 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_LV8044'
+Creating library IQ_PARAM_OV5658_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov5658_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ov5658_evb'
+Compiling iq_param_mode_ps5250_evb.c
+Compiling LensDrv_LV8044.c
+Compiling LensMotor_AN41908.c
+Compiling iq_param_common_ps5250_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sample_evb'
+Creating library IQ_PARAM_PS5250_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ps5250_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_ps5250_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc2235_evb'
+
+Checking eCos - IQ_PARAM_SAMPLE_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sample_evb'
+Creating library LENSDRV_AN41908.a ...
+
+Checking eCos - IQ_PARAM_SC2235_EVB release target ...
+Compiling iq_param_table1_sample_evb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_AN41908'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_AN41908'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc2235_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_PT5111'
+Compiling LensMotor_LV8044.c
+Compiling iq_param_table1_sc2235_evb.c
+
+Checking eCos - LENSDRV_PT5111 release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_PT5111'
+Compiling LensDrv_PT5111.c
+Compiling iq_param_mode_sample_evb.c
+Compiling iq_param_mode_sc2235_evb.c
+Creating library LENSDRV_LV8044.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_LV8044'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_LV8044'
+Compiling iq_param_common_sc2235_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc2310_evb'
+Compiling iq_param_common_sample_evb.c
+
+Checking eCos - IQ_PARAM_SC2310_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc2310_evb'
+Creating library IQ_PARAM_SC2235_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc2235_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc2235_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc4236_evb'
+Compiling LensMotor_PT5111.c
+
+Checking eCos - IQ_PARAM_SC4236_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc4236_evb'
+Compiling iq_param_table1_sc2310_evb.c
+Creating library IQ_PARAM_SAMPLE_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sample_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sample_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_RX'
+Compiling iq_param_table1_sc4236_evb.c
+Creating library LENSDRV_PT5111.a ...
+
+Checking eCos - MODELEXT_MIO_ETHCAM_RX release target ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_PT5111'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Lens/LensDrv_PT5111'
+Compiling iq_param_mode_sc2310_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_RX'
+Compiling iq_param_common_sc2310_evb.c
+Compiling DxCfg.c
+Compiling iq_param_mode_sc4236_evb.c
+Compiling iq_param_common_sc4236_evb.c
+Compiling IntDirCfg.c
+Creating library IQ_PARAM_SC2310_EVB.a ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc4335_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc2310_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc2310_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc5035_evb'
+
+Checking eCos - IQ_PARAM_SC4335_EVB release target ...
+Compiling PinmuxCfg.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc4335_evb'
+Compiling iq_param_table1_sc4335_evb.c
+Compiling IOCfg.c
+Creating library IQ_PARAM_SC4236_EVB.a ...
+
+Checking eCos - IQ_PARAM_SC5035_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc5035_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc4236_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc4236_evb'
+Compiling DxStorage_Card.c
+Compiling iq_param_table1_sc5035_evb.c
+Compiling iq_param_mode_sc4335_evb.c
+Compiling iq_param_mode_sc5035_evb.c
+Compiling DxStorage_EmbMem.c
+Compiling iq_param_common_sc4335_evb.c
+Compiling iq_param_common_sc5035_evb.c
+Creating library IQ_PARAM_SC4335_EVB.a ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_TX'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc4335_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc4335_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc8238_evb'
+
+Checking eCos - MODELEXT_MIO_ETHCAM_TX release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_TX'
+Creating library IQ_PARAM_SC5035_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc5035_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc5035_evb'
+Compiling DxInput_Key.c
+
+Checking eCos - IQ_PARAM_SC8238_EVB release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_proc'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc8238_evb'
+
+Checking eCos - IQ_PROC_NVT release target ...
+Compiling DxCfg.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_proc'
+Compiling DxCamera_Lens.c
+Compiling iq_param_table1_sc8238_evb.c
+Compiling IntDirCfg.c
+Compiling DxCamera_Sensor.c
+Compiling iq_proc.c
+Compiling PinmuxCfg.c
+Compiling IOCfg.c
+Compiling DxDisplay_LCD.c
+Compiling DxStorage_Card.c
+Compiling iq_param_mode_sc8238_evb.c
+Compiling DxStorage_EmbMem.c
+Compiling DxDisplay_TV.c
+Compiling iq_param_common_sc8238_evb.c
+Compiling DxInput_Key.c
+Compiling DxOutput_LED.c
+Creating library IQ_PARAM_SC8238_EVB.a ...
+Compiling DxCamera_Lens.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc8238_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_param/iq_param_sc8238_evb'
+Compiling DxCamera_Sensor.c
+Compiling DxCmd.c
+Compiling DxUsb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/PMU'
+Compiling DxWiFi.c
+
+Checking eCos - PMU release target ...
+Compiling DxGSensor.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/PMU'
+Compiling DxDisplay_LCD.c
+Compiling PartitionInfo.c
+Compiling DxSound_Audio.c
+Compiling AXP_cfg.c
+Compiling DxDisplay_TV.c
+Compiling axp-sply.c
+Compiling iq_func.c
+Compiling IP6303.c
+Compiling DxOutput_LED.c
+Compiling DxIPL.c
+Creating library PMU.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/PMU'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/PMU'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Sensor/cmos_gc2053m'
+Compiling DxCmd.c
+Compiling dx_ipl_cal.c
+
+Checking eCos - CMOS_GC2053M release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Sensor/cmos_gc2053m'
+Compiling DxUsb.c
+Compiling DxPower_Battery.c
+Compiling gc2053m.c
+Compiling DxWiFi.c
+Compiling iq_effect_table.c
+Compiling DxGSensor.c
+Compiling DxPower_DC.c
+Compiling PartitionInfo.c
+Compiling gc2053m_param.c
+Compiling DxSound_Audio.c
+Compiling iq_tuning.c
+Creating library CMOS_GC2053M.a ...
+Compiling DxPQs.c
+CMOS_GC2053M.a: SHA.7E7B49CD
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Sensor/cmos_gc2053m'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Sensor/cmos_gc2053m'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Sensor/cmos_gc2053p'
+Compiling DxMCU.c
+Compiling DxIPL.c
+
+Checking eCos - CMOS_GC2053P release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Sensor/cmos_gc2053p'
+Compiling MCUCtrlTsk.c
+Compiling dx_ipl_cal.c
+Compiling MCU2CtrlTsk.c
+Compiling gc2053p.c
+Compiling DxPower_Battery.c
+Compiling MCUCtrlID.c
+Compiling DxPower_DC.c
+Compiling gc2053p_param.c
+Compiling MCU2CtrlID.c
+Compiling modelext_info.c
+Compiling DxPQs.c
+Creating library CMOS_GC2053P.a ...
+CMOS_GC2053P.a: SHA.C3F1A882
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Sensor/cmos_gc2053p'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/Sensor/cmos_gc2053p'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/TouchPanel/GT9xx'
+Compiling bin_info.c
+
+Checking eCos - GT9xx release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/TouchPanel/GT9xx'
+Compiling DxMCU.c
+Compiling pinmux_cfg.c
+Compiling intdir_cfg.c
+Creating library IQ_PROC_NVT.a ...
+Compiling GT9xx.c
+Compiling emb_partition_info.c
+Compiling MCUCtrlTsk.c
+IQ_PROC_NVT.a: SHA.E473DBC3
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_proc'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevCamIQ/iq_proc'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevLens'
+Compiling gpio_info.c
+Compiling MCU2CtrlTsk.c
+Compiling dram_partition_info.c
+Creating library GT9xx.a ...
+Compiling model_cfg.c
+Compiling MCUCtrlID.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/TouchPanel/GT9xx'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/TouchPanel/GT9xx'
+Compiling MCU2CtrlID.c
+
+Checking eCos - LensTask release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevLens'
+Creating library MODELEXT_MIO_ETHCAM_RX.a ...
+Compiling modelext_info.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_RX'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_RX'
+Compiling bin_info.c
+Compiling pinmux_cfg.c
+Compiling intdir_cfg.c
+Compiling LensAPI.c
+Compiling emb_partition_info.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb'
+Compiling gpio_info.c
+
+Checking eCos - AE_PARAM_AR0237_EVB release target ...
+Compiling dram_partition_info.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb'
+Compiling model_cfg.c
+
+Checking eCos - AE_PARAM_AR0237_RGBIR_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb'
+Compiling ae_param_ar0237_evb.c
+Creating library MODELEXT_MIO_ETHCAM_TX.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_TX'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_TX'
+make[2]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb'
+Compiling ae_param_ar0237_rgbir_evb.c
+Creating library AE_PARAM_AR0237_EVB.a ...
+Creating library AE_PARAM_AR0237_RGBIR_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb'
+
+Checking eCos - AE_PARAM_AR0330_EVB release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_gc2053_evb'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb'
+
+Checking eCos - AE_PARAM_GC2053_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_gc2053_evb'
+
+Checking eCos - AE_PARAM_AR0521_EVB release target ...
+Compiling LensTask.c
+Compiling ae_param_ar0330_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb'
+Compiling ae_param_gc2053_evb.c
+Creating library AE_PARAM_AR0330_EVB.a ...
+Compiling ae_param_ar0521_evb.c
+Creating library AE_PARAM_GC2053_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb'
+Compiling LensTaskID.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_gc2053_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_gc2053_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb'
+Compiling LensUartCmd.c
+Creating library AE_PARAM_AR0521_EVB.a ...
+
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb'
+Checking eCos - AE_PARAM_IMX290_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb'
+
+Checking eCos - AE_PARAM_IMX291_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb'
+Compiling ae_param_imx290_evb.c
+
+Checking eCos - AE_PARAM_IMX307_EVB release target ...
+Creating library LensTask.a ...
+Compiling ae_param_imx291_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevLens'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/DevLens'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb'
+Compiling ae_param_imx307_evb.c
+Creating library AE_PARAM_IMX290_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb'
+Creating library AE_PARAM_IMX291_EVB.a ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb'
+
+Checking eCos - AE_PARAM_IMX317_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb'
+Creating library AE_PARAM_IMX307_EVB.a ...
+
+Checking eCos - AE_PARAM_IMX335_EVB release target ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb'
+
+Checking eCos - AE_PARAM_IMX377_EVB release target ...
+Compiling ae_param_imx317_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb'
+
+Checking eCos - AE_PARAM_JXK02_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb'
+Compiling ae_param_imx335_evb.c
+Compiling ae_param_imx377_evb.c
+Creating library AE_PARAM_IMX317_EVB.a ...
+Compiling ae_param_jxk02_evb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb'
+Creating library AE_PARAM_IMX377_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb'
+Creating library AE_PARAM_IMX335_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb'
+
+Checking eCos - AE_PARAM_OS05A10_EVB release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb'
+Creating library AE_PARAM_JXK02_EVB.a ...
+
+Checking eCos - AE_PARAM_JXK03_EVB release target ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb'
+
+Checking eCos - AE_PARAM_OS08A10_EVB release target ...
+Compiling ae_param_os05a10_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb'
+
+Checking eCos - AE_PARAM_OV2735_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb'
+Compiling ae_param_jxk03_evb.c
+Compiling ae_param_ov2735_evb.c
+Compiling ae_param_os08a10_evb.c
+Creating library AE_PARAM_JXK03_EVB.a ...
+Creating library AE_PARAM_OS05A10_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb'
+Creating library AE_PARAM_OV2735_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb'
+
+Checking eCos - AE_PARAM_OV5658_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb'
+
+Checking eCos - AE_PARAM_OV4689_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb'
+
+Checking eCos - AE_PARAM_PS5250_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb'
+Creating library AE_PARAM_OS08A10_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb'
+Compiling ae_param_ov5658_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb'
+Compiling ae_param_ps5250_evb.c
+Compiling ae_param_ov4689_evb.c
+
+Checking eCos - AE_PARAM_SAMPLE_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb'
+Creating library AE_PARAM_OV5658_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb'
+Creating library AE_PARAM_PS5250_EVB.a ...
+Compiling ae_param_sample_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb'
+Creating library AE_PARAM_OV4689_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb'
+
+Checking eCos - AE_PARAM_SC2235_EVB release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb'
+
+Checking eCos - AE_PARAM_SC2310_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb'
+
+Checking eCos - AE_PARAM_SC4236_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb'
+Compiling ae_param_sc2235_evb.c
+Creating library AE_PARAM_SAMPLE_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb'
+Compiling ae_param_sc2310_evb.c
+
+Checking eCos - AE_PARAM_SC4335_EVB release target ...
+Compiling ae_param_sc4236_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb'
+Creating library AE_PARAM_SC2235_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb'
+Compiling ae_param_sc4335_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb'
+Creating library AE_PARAM_SC4236_EVB.a ...
+Creating library AE_PARAM_SC2310_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb'
+
+Checking eCos - AE_PARAM_SC5035_EVB release target ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_proc/ae_proc_nvt'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb'
+
+Checking eCos - AE_PARAM_SC8238_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb'
+
+Checking eCos - AE_PROC_NVT release target ...
+Compiling ae_param_sc5035_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_proc/ae_proc_nvt'
+Creating library AE_PARAM_SC4335_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAF/af_proc/af_proc_nvt'
+Compiling ae_proc_nvt.c
+
+Checking eCos - AF_PROC_NVT release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAF/af_proc/af_proc_nvt'
+Compiling ae_param_sc8238_evb.c
+Creating library AE_PARAM_SC5035_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0237_evb'
+Compiling af_proc_nvt.c
+Creating library AE_PARAM_SC8238_EVB.a ...
+
+Checking eCos - AWB_PARAM_AR0237_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0237_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0237_rgbir_evb'
+
+Checking eCos - AWB_PARAM_AR0237_RGBIR_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0237_rgbir_evb'
+Compiling awb_param_ar0237_evb.c
+Creating library AWB_PARAM_AR0237_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0237_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0237_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0330_evb'
+Compiling awb_param_ar0237_rgbir_evb.c
+Creating library AWB_PARAM_AR0237_RGBIR_EVB.a ...
+Creating library AF_PROC_NVT.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0237_rgbir_evb'
+AF_PROC_NVT.a: SHA.19E4E1B1
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAF/af_proc/af_proc_nvt'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAF/af_proc/af_proc_nvt'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0521_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0237_rgbir_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_gc2053_evb'
+
+Checking eCos - AWB_PARAM_AR0330_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0330_evb'
+
+Checking eCos - AWB_PARAM_GC2053_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_gc2053_evb'
+
+Checking eCos - AWB_PARAM_AR0521_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0521_evb'
+Compiling awb_param_ar0330_evb.c
+Compiling awb_param_gc2053_evb.c
+Creating library AWB_PARAM_AR0330_EVB.a ...
+Compiling awb_param_ar0521_evb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0330_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0330_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx290_evb'
+Creating library AWB_PARAM_GC2053_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_gc2053_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_gc2053_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx291_evb'
+Creating library AWB_PARAM_AR0521_EVB.a ...
+
+Checking eCos - AWB_PARAM_IMX290_EVB release target ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0521_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ar0521_evb'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx290_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx307_evb'
+
+Checking eCos - AWB_PARAM_IMX291_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx291_evb'
+Compiling awb_param_imx290_evb.c
+
+Checking eCos - AWB_PARAM_IMX307_EVB release target ...
+Compiling awb_param_imx291_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx307_evb'
+Creating library AWB_PARAM_IMX290_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx290_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx290_evb'
+Creating library AWB_PARAM_IMX291_EVB.a ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx317_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx291_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx291_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx335_evb'
+Compiling awb_param_imx307_evb.c
+
+Checking eCos - AWB_PARAM_IMX335_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx335_evb'
+
+Checking eCos - AWB_PARAM_IMX317_EVB release target ...
+Creating library AWB_PARAM_IMX307_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx307_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx307_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx377_evb'
+Compiling awb_param_imx335_evb.c
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx317_evb'
+
+Checking eCos - AWB_PARAM_IMX377_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx377_evb'
+Creating library AWB_PARAM_IMX335_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx335_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx335_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_jxk02_evb'
+Compiling awb_param_imx377_evb.c
+Compiling awb_param_imx317_evb.c
+
+Checking eCos - AWB_PARAM_JXK02_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_jxk02_evb'
+Creating library AWB_PARAM_IMX377_EVB.a ...
+Creating library AWB_PARAM_IMX317_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx377_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx377_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_jxk03_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx317_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_imx317_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_os05a10_evb'
+Compiling awb_param_jxk02_evb.c
+
+Checking eCos - AWB_PARAM_JXK03_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_jxk03_evb'
+
+Checking eCos - AWB_PARAM_OS05A10_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_os05a10_evb'
+Creating library AWB_PARAM_JXK02_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_jxk02_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_jxk02_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_os08a10_evb'
+Compiling awb_param_jxk03_evb.c
+Creating library AWB_PARAM_JXK03_EVB.a ...
+Compiling awb_param_os05a10_evb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_jxk03_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_jxk03_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov2735_evb'
+
+Checking eCos - AWB_PARAM_OS08A10_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_os08a10_evb'
+Creating library AWB_PARAM_OS05A10_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_os05a10_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_os05a10_evb'
+
+Checking eCos - AWB_PARAM_OV2735_EVB release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov4689_evb'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov2735_evb'
+Compiling awb_param_os08a10_evb.c
+
+Checking eCos - AWB_PARAM_OV4689_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov4689_evb'
+Compiling awb_param_ov2735_evb.c
+Creating library AWB_PARAM_OS08A10_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_os08a10_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_os08a10_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov5658_evb'
+Compiling awb_param_ov4689_evb.c
+Creating library AWB_PARAM_OV2735_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov2735_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov2735_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ps5250_evb'
+Creating library AWB_PARAM_OV4689_EVB.a ...
+
+Checking eCos - AWB_PARAM_OV5658_EVB release target ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov4689_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov4689_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sample_evb'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov5658_evb'
+
+Checking eCos - AWB_PARAM_PS5250_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ps5250_evb'
+Compiling awb_param_ov5658_evb.c
+Compiling awb_param_ps5250_evb.c
+
+Checking eCos - AWB_PARAM_SAMPLE_EVB release target ...
+Creating library AWB_PARAM_OV5658_EVB.a ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sample_evb'
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov5658_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ov5658_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc2235_evb'
+Creating library AWB_PARAM_PS5250_EVB.a ...
+Compiling awb_param_sample_evb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ps5250_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_ps5250_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc2310_evb'
+
+Checking eCos - AWB_PARAM_SC2235_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc2235_evb'
+Creating library AWB_PARAM_SAMPLE_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sample_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sample_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc4236_evb'
+
+Checking eCos - AWB_PARAM_SC2310_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc2310_evb'
+Compiling awb_param_sc2235_evb.c
+Creating library AE_PROC_NVT.a ...
+AE_PROC_NVT.a: SHA.4D505ADC
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_proc/ae_proc_nvt'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_proc/ae_proc_nvt'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc4335_evb'
+Creating library AWB_PARAM_SC2235_EVB.a ...
+Compiling awb_param_sc2310_evb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc2235_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc2235_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc5035_evb'
+
+Checking eCos - AWB_PARAM_SC4236_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc4236_evb'
+
+Checking eCos - AWB_PARAM_SC4335_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc4335_evb'
+
+Checking eCos - AWB_PARAM_SC5035_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc5035_evb'
+Creating library AWB_PARAM_SC2310_EVB.a ...
+Compiling awb_param_sc4335_evb.c
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc2310_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc2310_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc8238_evb'
+Compiling awb_param_sc4236_evb.c
+Creating library AWB_PARAM_SC4335_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc4335_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc4335_evb'
+Compiling awb_param_sc5035_evb.c
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_proc/awb_proc_nvt'
+
+Checking eCos - AWB_PARAM_SC8238_EVB release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc8238_evb'
+Creating library AWB_PARAM_SC4236_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc4236_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc4236_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginEthCam/EthCamCmdParser'
+
+Checking eCos - awb_proc_nvt release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_proc/awb_proc_nvt'
+Compiling awb_param_sc8238_evb.c
+Creating library AWB_PARAM_SC5035_EVB.a ...
+
+Checking eCos - EthCamCmdParser release target ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc5035_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc5035_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginPhoto/md_sample'
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginEthCam/EthCamCmdParser'
+Creating library AWB_PARAM_SC8238_EVB.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc8238_evb'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_param/awb_param_sc8238_evb'
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginWifi/WifiCmdParser'
+Compiling awb_proc_nvt.c
+
+Checking eCos - md_sample release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginPhoto/md_sample'
+Compiling EthCamCmdParser.c
+
+Checking eCos - WifiCmdParser release target ...
+make[4]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginWifi/WifiCmdParser'
+Compiling md_alg.c
+Compiling EthCamCmdParserID.c
+Compiling WifiCmdParser.c
+Compiling md_sample.c
+Creating library EthCamCmdParser.a ...
+EthCamCmdParser.a: SHA.065B9E27
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginEthCam/EthCamCmdParser'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginEthCam/EthCamCmdParser'
+Compiling WifiCmdParserID.c
+Creating library md_sample.a ...
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginPhoto/md_sample'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginPhoto/md_sample'
+Creating library WifiCmdParser.a ...
+WifiCmdParser.a: SHA.FA19B76C
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginWifi/WifiCmdParser'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginWifi/WifiCmdParser'
+Creating library awb_proc_nvt.a ...
+awb_proc_nvt.a: SHA.2E72AAA1
+make[4]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_proc/awb_proc_nvt'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAWB/awb_proc/awb_proc_nvt'
+make[2]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt'
+make[2]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit'
+
+Checking eCos - DemoKit release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit'
+Assembling CodeInfo.s
+Compiling _main.c
+Compiling BinInfo.c
+Compiling SysCfg.c
+Compiling eCos_main.c
+Compiling ecos_FileSys.c
+Compiling ecos_PStore.c
+Compiling main.c
+Compiling SysMain.c
+Compiling SysMain_Exe.c
+Compiling SysMain_Flow_Init.c
+Compiling SysMain_Flow_Exit.c
+Compiling SysMain_Flow_Mode.c
+Compiling SysMain_Flow_Sleep.c
+Compiling SysMain_State.c
+Compiling SysMain_cmd.c
+Compiling SysLock.c
+Compiling SysVideo_Exe.c
+Compiling SysVideo_CB.c
+Compiling SysVideo_cmd.c
+Compiling SysAudio_Exe.c
+Compiling SysAudio_CB.c
+Compiling SysStrg_Exe.c
+Compiling SysStrg_CB.c
+Compiling SysStrg_cmd.c
+Compiling SysSensor_Exe.c
+Compiling SysSensor_CB.c
+Compiling SysSensor_cmd.c
+Compiling SysLens_Exe.c
+Compiling SysLens_CB.c
+Compiling SysIpc_Exe.c
+Compiling SysUctrl_Exe.c
+Compiling SysBT.c
+Compiling ProjectInfo.c
+Compiling MovieUdtaVendor.c
+Compiling MsdcNvtCb.c
+Compiling MsdcNvtCb_Photo.c
+Compiling MsdcNvtCb_Adj.c
+Compiling MsdcNvtCb_UpdFw.c
+Compiling MsdcNvtCb_CustomSi.c
+Compiling MsdcNvtCb_IQSim.c
+Compiling MsdcNvtCb_TimeSi.c
+Compiling nvtrtspd.c
+Compiling SysInput_Exe.c
+Compiling SysInput_CB.c
+Compiling SysInput_cmd.c
+Compiling SysOutput_Exe.c
+Compiling SysOutput_cmd.c
+Compiling SysPower_Exe.c
+Compiling SysPower_CB.c
+Compiling SysPower_cmd.c
+Compiling SysUsb_Exe.c
+Compiling SysUsb_CB.c
+Compiling SysUsb_cmd.c
+Compiling SysExam_cmd.c
+Compiling SysUICB.c
+Compiling UIDisplay.c
+Compiling UIGraphics.c
+Compiling UIGraphicsID.c
+Compiling UIView.c
+Compiling PlaybackView.c
+Compiling PhotoView.c
+Compiling MovieView.c
+Compiling UIBuffer.c
+Compiling UniFont.c
+Compiling UserCmd.c
+Compiling UserCmdID.c
+Compiling AppDisp_PipView.c
+Compiling AppDisp_SbsView.c
+Compiling AppDisp_MoviePlayView.c
+Compiling AppDisp_MoviePlayViewID.c
+Compiling AppDisp_3DNRView.c
+Compiling AppDisp_PBView.c
+Compiling AppDisp_View.c
+Compiling ASR.c
+Compiling WavPlay.c
+Compiling ExifVendor.c
+Compiling WavTrans.c
+Compiling AudProc.c
+Compiling MovieStamp.c
+Compiling MovieStampID.c
+Compiling MovieStampTsk.c
+Compiling DateStampFont10x16.c
+Compiling DateStampFont12x20.c
+Compiling DateStampFont18x30.c
+Compiling DateStampFont20x44.c
+Compiling DateStampFontTbl10x16.c
+Compiling DateStampFont26x44.c
+Compiling DateStampFontTbl12x20.c
+Compiling DateStampFontTbl18x30.c
+Compiling DateStampFontTbl20x44.c
+Compiling DateStampFontTbl26x44.c
+Compiling DateStampFontTbl36x60.c
+Compiling DateStampFontTbl42x72.c
+Compiling DateStampFontTbl56x96.c
+Compiling UIMode.c
+Compiling UIMode_cmd.c
+Compiling UIModeMain.c
+Compiling UIModeSleep.c
+Compiling UIModeWifi.c
+Compiling FlowCommon.c
+Compiling MenuCommonItem.c
+Compiling MenuCommonOption.c
+Compiling MenuCommonConfirm.c
+Compiling TabMenu.c
+Compiling MenuCommon.c
+Compiling MenuCommonPlayMenu.c
+Compiling MenuMode.c
+Compiling MenuMovie.c
+Compiling MenuPhoto.c
+Compiling MenuPlayback.c
+Compiling UIMenuWndPlayDel.c
+Compiling UIMenuWndPlayConfirmDel.c
+Compiling MenuSetup.c
+Compiling MenuExtSetup.c
+Compiling UIMenuWndSetupDateTime.c
+Compiling UIMenuWndSetupDefaultSetting.c
+Compiling UIMenuWndSetupFormatConfirm.c
+Compiling UIMenuWndSetupVersion.c
+Compiling UIMenuWndSetupWiFiInfo.c
+Compiling UIMenuWndWiFiWait.c
+Compiling UIMenuWndWiFiModuleLink.c
+Compiling UIMenuWndWiFiMobileLinkOK.c
+Compiling UIMenuWndUSB.c
+Compiling UIFlowWndWrnMsg.c
+Compiling UIFlowWndWaitMoment.c
+Compiling UIFlowWndUSB.c
+Compiling UIFlowWndPhoto.c
+Compiling UIFlowPhotoFuncs.c
+Compiling UIFlowPhotoIcons.c
+Compiling UIFlowPhotoParams.c
+Compiling UIFlowWndMovie.c
+Compiling UIFlowMovieFuncs.c
+Compiling UIFlowMovieIcons.c
+Compiling UIFlowWndPlay.c
+Compiling UIFlowWndPlayThumb.c
+Compiling UIFlowWndPlayMagnify.c
+Compiling UIFlowCBSlideShow.c
+Compiling UIFlowPlayIcons.c
+Compiling UIFlowPlayFuncs.c
+Compiling CalibrationWnd.c
+Compiling Engineer_ID.c
+Compiling EngineerModeTbl.c
+Compiling DynamicMenu.c
+Compiling BurnInWnd.c
+Compiling KeyTestWnd.c
+Compiling MovieRecTestWnd.c
+Compiling MoviePlayTestWnd.c
+Compiling LCDTestWnd.c
+Compiling LEDTestWnd.c
+Compiling AudioTestWnd.c
+Compiling cal_header.c
+Compiling calibration_item.c
+Compiling cal_ui_sample.c
+Compiling UIMovieMapping.c
+Compiling UIPhotoMapping.c
+Compiling UIInfo.c
+Compiling DateTimeInfo.c
+Compiling GSInfo.c
+Compiling UIAppObj.c
+Compiling UIAppNetwork.c
+Compiling UIAppNetwork_cmd.c
+Compiling WifiAppXML.c
+Compiling WifiAppCmd.c
+Compiling UIAppWiFiCmd_Exe.c
+Compiling UIAppWiFiCmdMovie_Exe.c
+Compiling UIAppWiFiCmdPhoto_Exe.c
+Compiling WifiAppCmdMapping.c
+Compiling NetFs.c
+Compiling EthCamAppCmd.c
+Compiling EthCamAppSocket.c
+Compiling EthCamAppNetwork.c
+Compiling UIModeMovie.c
+Compiling UIAppMovie_Exe.c
+Compiling UIAppMovie_CB.c
+Compiling UIAppMovie_cmd.c
+Compiling UIAppMovie_GetFreeRecSec.c
+Compiling UIAppMovie_SetUserData.c
+Compiling UIAppMovie_AudNR_Spec_Zoom.c
+Compiling UIAppMovie_AudNR_Spec_Focus.c
+Compiling UIAppMovie_AudNR_Spec_Iris.c
+Compiling UIAppMovie_CvHostEx.c
+Compiling UIAppMovie_NvtCvEx.c
+Compiling UIAppMovie_Param.c
+Compiling UIAppMovie_CommPoolTbl.c
+Compiling UIAppMovie_RecSetting.c
+Compiling UIAppMovie_TimelapseLPR.c
+Compiling UIModePhoto.c
+Compiling UIAppPhoto_Exe.c
+Compiling UIAppPhoto_CB.c
+Compiling UIAppPhoto_cmd.c
+Compiling UIAppPhoto_Param.c
+Compiling UIDateImprint.c
+Compiling UIDateImprintID.c
+Compiling UIStorageCheck.c
+Compiling UIPhotoFuncInfo.c
+Compiling cmd_iperf.c
+Compiling test_wifi.c
+Compiling test_ping.c
+Compiling UIModePlayback.c
+Compiling UIModePlayMenu.c
+Compiling UIAppPlay_Exe.c
+Compiling UIAppPlay_CB.c
+Compiling UIAppPlay_cmd.c
+Compiling UIAppMoviePlay_Exe.c
+Compiling UIPlaySlide.c
+Compiling UIPlayWallpaper.c
+Compiling UIPlayComm.c
+Compiling UIModeUpdFw.c
+Compiling UISetup_Exe.c
+Compiling UIBackgroundObj.c
+Compiling UIModeUsbCam.c
+Compiling UIAppUsbCam_Exe.c
+Compiling UsbCmd.c
+Compiling UsbCmdID.c
+Compiling UsbCmdTsk.c
+Compiling UIModeUsbDisk.c
+Compiling UIAppUsbDisk_Exe.c
+Compiling UIAppUsbPrint_Exe.c
+Compiling UIModeUsbPTP.c
+Compiling UIModeUsbCharge.c
+Compiling UIAppUsbCharge_Exe.c
+Compiling UIModeUsbMenu.c
+Compiling UCtrlMain.c
+Compiling UCtrlMainID.c
+Compiling UCtrlMode.c
+Compiling UCtrlAppSetup.c
+Compiling UCtrlAppSystem.c
+Compiling UCtrlAppMovie.c
+Compiling UCtrlAppMovieIni.c
+Compiling UCtrlAppOnvif.c
+Compiling UCtrlAppOnvifID.c
+Compiling UCtrlAppImage.c
+Compiling uctrlapp_nvt_status.c
+Compiling UCtrlAppPhoto.c
+Compiling UCtrlAppPhotoID.c
+Compiling UIResource.c
+Compiling BG_Images.c
+Compiling BG_Opening.c
+Compiling BG_Watermark.c
+Compiling Demo_BigFont.c
+Compiling Demo_SmallFont.c
+Compiling DemoKit_Font.c
+Compiling DemoKit_Image.c
+Compiling DemoKit_Palette.c
+Compiling DemoKit_PaletteOption.c
+Compiling DemoKit_PaletteConfirm.c
+Compiling DemoKit_String_EN.c
+Compiling DemoKit_String_DE.c
+Compiling DemoKit_String_PO.c
+Compiling DemoKit_String_ES.c
+Compiling DemoKit_String_IT.c
+Compiling DemoKit_String_FR.c
+Compiling DemoKit_String_SC.c
+Compiling DemoKit_String_TC.c
+Compiling DemoKit_String_JP.c
+Compiling DemoKit_String_RU.c
+Compiling SoundData.c
+Compiling alg_id.c
+Compiling alg_VdoOut.c
+Compiling alg_CvHostEx.c
+Compiling alg_MovieStamp.c
+Compiling alg_Photo_PhotoFuncInfo.c
+Compiling alg_Movie_PhotoFuncInfo.c
+Compiling alg_UIFlowWndMovie.c
+Compiling alg_MovieExe.c
+Compiling alg_AnfaLicense.c
+Compiling hello_world.cpp
+Compiling unicode_string.cpp
+Creating modelext DemoKit_Data/Release/FW96675A.ext.bin
+Append modelext_info into DemoKit_Data/Release/FW96675A.ext.bin.
+make lds extern string ...
+Append bin_info into DemoKit_Data/Release/FW96675A.ext.bin.
+Append pinmux_cfg into DemoKit_Data/Release/FW96675A.ext.bin.
+Append intdir_cfg into DemoKit_Data/Release/FW96675A.ext.bin.
+Append emb_partition_info into DemoKit_Data/Release/FW96675A.ext.bin.
+Append gpio_info into DemoKit_Data/Release/FW96675A.ext.bin.
+Append dram_partition_info into DemoKit_Data/Release/FW96675A.ext.bin.
+Append model_cfg into DemoKit_Data/Release/FW96675A.ext.bin.
+Reading 'DemoKit_Data/Release/FW96675A.ext.bin'...
+File size = 2720
+
+==Display binary file info== Begin
+Model Name: NT96675
+VersionNumber: 00000001
+ReleaseDate: 20210408
+==Display binary file info== End
+
+Total binary size after padding: 2720
+
+##ui32BinDataSumValue: 0x00EF8AF7
+CheckSum: 0x7509
+
+Writing 'DemoKit_Data/Release/FW96675A.ext.bin'...
+Write size = 2720
+Save binary OK.
+Copying ObjectLds: MODELEXT_MIO_ETHCAM_RX.a
+Extracting: DemoKit_Data/Release/ObjectLds/MODELEXT_MIO_ETHCAM_RX/modelext_info.o
+Extracting: DemoKit_Data/Release/ObjectLds/MODELEXT_MIO_ETHCAM_RX/bin_info.o
+Copying ObjectLds: Driver_Sys.a
+Extracting: DemoKit_Data/Release/ObjectLds/MODELEXT_MIO_ETHCAM_RX/pinmux_cfg.o
+Extracting: DemoKit_Data/Release/ObjectLds/Driver_Sys/clock_power_down.o
+Extracting: DemoKit_Data/Release/ObjectLds/MODELEXT_MIO_ETHCAM_RX/intdir_cfg.o
+Extracting: DemoKit_Data/Release/ObjectLds/MODELEXT_MIO_ETHCAM_RX/emb_partition_info.o
+Extracting: DemoKit_Data/Release/ObjectLds/MODELEXT_MIO_ETHCAM_RX/gpio_info.o
+Extracting: DemoKit_Data/Release/ObjectLds/MODELEXT_MIO_ETHCAM_RX/dram_partition_info.o
+Extracting: DemoKit_Data/Release/ObjectLds/MODELEXT_MIO_ETHCAM_RX/model_cfg.o
+Linking ...
+Creating image DemoKit_Data/Release/DemoKit.axf ...
+Creating executable DemoKit_Data/Release/FW96675A.bin ...
+Encrypt binary file DemoKit_Data/Release/FW96675A.bin ...
+Reading 'DemoKit_Data/Release/FW96675A.bin'...
+File size = 10124068
+
+==Display binary file info== Begin
+Model Name: NT96675
+VersionNumber: FFFFFFFF
+ReleaseDate: 20210408
+==Display binary file info== End
+
+Total binary size after padding: 10124068
+
+##ui32BinDataSumValue: 0x5CBBFC4C
+CheckSum: 0x03B4
+
+Writing 'DemoKit_Data/Release/FW96675A.bin'...
+Write size = 10124068
+Save binary OK.
+bfc.exe: 2018-04-5
+full load version
+compress DemoKit_Data/Release/FW96675A.bin to tmp...
+Input file: 10124068 bytes
+Compressed data: 2674545 bytes (26.4%)
+Alignment on, padding to 4 bytes!
+Full compress, new file size = outsize + 16bytes = 2674564
+Calculate and write back checksum...
+Checksum = 0xd705
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit'
+make[2]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit'
+make[1]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/MakeCommon'

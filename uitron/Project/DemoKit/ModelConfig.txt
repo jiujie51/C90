@@ -1,0 +1,27 @@
+#----------------------------------------------------------------------
+# Set model here
+#
+# The corresponding peripheral device (e.g. Sensor) is referred to
+# ModelConfig_(MODEL).txt
+#
+# [OWNER LIST]
+# FPGA: Lincy
+# IPCAM1_EVB: Lincy
+# DVCAM1_EVB: Lincy
+# Q09_2     : Isiah
+# AHD_LT8918: KS
+# LMT84L Philex
+# DUAL_AHD: KS
+#----------------------------------------------------------------------
+
+# FPGA
+# IPCAM1_EVB
+# DVCAM1_EVB
+# J511S
+# X1
+# Q09_2
+# WH675
+# WH850_672
+# AHD_LT8918
+# DUAL_AHD
+MODEL = MIO_ETHCAM_RX

@@ -1,0 +1,124 @@
+BIN_NAME        = ecos-kit
+ifeq "$(NVT_ETHREARCAM)" "NVT_ETHREARCAM_RX"
+SCATTER         = eCosKit_ETHCAM.lds
+else ifeq "$(NVT_ETHREARCAM)" "NVT_ETHREARCAM_TX"
+SCATTER         = eCosKit_ETHCAM.lds
+else
+SCATTER         = eCosKit.lds
+endif
+#remove mark for SA-1 Emu's test
+#BOARD_ECOS_ADDR = 0x04000000
+#BOARD_ECOS_SIZE = 0x00800000
+#BIN_NAME = _FWMIPS2.bin
+
+#----------------------------------------------------------------------
+# multi regions in scatter description file or not
+# ON: Two or more load regions
+# OFF: Only one load region
+#----------------------------------------------------------------------
+MULTI_REGIONS = OFF
+
+#----------------------------------------------------------------------
+# set encrypt binary parameters
+# EBIN_METHOD
+#   CRC: CRC32
+#   SUM: Checksum
+# EBIN_BADDR
+#   Model name address in binary file (VersionInfo.s), should be 0x50
+# EBIN_MNAME
+#   Model name store in binary file (VersionInfo.s)
+# EBIN_PSTR
+#   Optional parameter, use as additional bytes to generate CRC or checksum
+#----------------------------------------------------------------------
+EBIN_METHOD = SUM
+
+EBIN_BADDR  = 0x450
+EBIN_MNAME  = ecos-kit
+EBIN_PSTR   =
+
+#----------------------------------------------------------------------
+# modelext build-in ON / OFF
+#----------------------------------------------------------------------
+# MODELEXT_BUILT_IN_ON
+# MODELEXT_BUILT_IN_OFF
+MODELEXT_BUILT_IN = MODELEXT_BUILT_IN_ON
+
+#----------------------------------------------------------------------
+# UI_STYLE parameters
+#----------------------------------------------------------------------
+UI_STYLE_ALL = UI_STYLE_SPORTCAM UI_STYLE_CARDV UI_STYLE_IPCAM UI_STYLE_TOUCH
+
+#----------------------------------------------------------------------
+# model_cfg string for verifing uitron and linux using the same modelconfig.txt
+# only keep important information to avoid build fail on Win32 because of shell buffer too small
+#----------------------------------------------------------------------
+MODELCONFIG_CFG = \
+	-D_MODEL_$(MODEL)_ \
+	-D_BIN_NAME_='"$(BIN_NAME)"' \
+	-D_BIN_NAME_T_='"$(BIN_NAME_T)"' \
+	-D_EMBMEM_BLK_SIZE_=$(EMBMEM_BLK_SIZE) \
+	-D_BOARD_DRAM_ADDR_=$(BOARD_DRAM_ADDR) \
+	-D_BOARD_DRAM_SIZE_=$(BOARD_DRAM_SIZE) \
+	-D_BOARD_REV_ADDR_=$(BOARD_REV_ADDR) \
+	-D_BOARD_REV_SIZE_=$(BOARD_REV_SIZE) \
+	-D_BOARD_IPC_ADDR_=$(BOARD_IPC_ADDR) \
+	-D_BOARD_IPC_SIZE_=$(BOARD_IPC_SIZE) \
+	-D_BOARD_LINUX_ADDR_=$(BOARD_LINUX_ADDR) \
+	-D_BOARD_LINUX_SIZE_=$(BOARD_LINUX_SIZE) \
+	-D_BOARD_UBOOT_ADDR_=$(BOARD_UBOOT_ADDR) \
+	-D_BOARD_UBOOT_SIZE_=$(BOARD_UBOOT_SIZE) \
+	-D_BOARD_UITRON_ADDR_=$(BOARD_UITRON_ADDR) \
+	-D_BOARD_UITRON_SIZE_=$(BOARD_UITRON_SIZE) \
+	-D_BOARD_UITRON_RESV_SIZE_=$(BOARD_UITRON_RESV_SIZE) \
+	-D_BOARD_ECOS_ADDR_=$(BOARD_ECOS_ADDR) \
+	-D_BOARD_ECOS_SIZE_=$(BOARD_ECOS_SIZE) \
+	-D_BOARD_RAMDISK_ADDR_=$(BOARD_RAMDISK_ADDR) \
+	-D_BOARD_RAMDISK_SIZE_=$(BOARD_RAMDISK_SIZE) \
+	-D_BOARD_DSP1_ADDR_=$(BOARD_DSP1_ADDR) \
+	-D_BOARD_DSP1_SIZE_=$(BOARD_DSP1_SIZE) \
+	-D_BOARD_DSP2_ADDR_=$(BOARD_DSP2_ADDR) \
+	-D_BOARD_DSP2_SIZE_=$(BOARD_DSP2_SIZE) \
+	-D_BOARD_LOADER_ADDR_=$(BOARD_LOADER_ADDR) \
+	-D_BOARD_LOADER_SIZE_=$(BOARD_LOADER_SIZE) \
+	-D_BOARD_EXTDRAM_ADDR_=$(BOARD_EXTDRAM_ADDR) \
+	-D_BOARD_EXTDRAM_SIZE_=$(BOARD_EXTDRAM_SIZE) \
+	-D_CHIP_$(CHIP)_ \
+	-D_CHIP_NAME_='"NT$(CHIP)"' \
+	-D_FW_NAME_='"FW$(CHIP)A.bin"' \
+	-D_RUN_NAME_='"FW$(CHIP)T.bin"' \
+	-D_EXT_NAME_='"FW$(CHIP)A.ext.bin"' \
+	-D_$(MODELEXT_BUILT_IN)_ \
+	-D_$(MODELEXT)_ \
+	-D_$(HW_STAGE)_ \
+	-D_$(FW_TYPE)_ \
+	-D_$(KEY_METHOD)_ \
+	-D_$(CPU1_TYPE)_ \
+	-D_$(CPU2_TYPE)_ \
+	-D_$(DSP1_TYPE)_ \
+	-D_$(DSP2_TYPE)_ \
+	-D_$(NETWORK_TYPE)_ \
+	-D_$(GPROF_TOOL)_ \
+	-D_$(USB1_TYPE)_ \
+	-D_$(USB2_TYPE)_ \
+	-D_$(NVT_ETHERNET)_\
+	-D_$(NVT_SDIO_WIFI)_\
+	-D_$(NVT_USB_WIFI)_\
+	-D_$(NVT_USB_4G)_ \
+	-D_$(WIFI_RTK_MDL)_\
+	-D_$(WIFI_BRCM_MDL)_\
+	-D_$(WIFI_NVT_MDL)_\
+	-D_$(SENSOR1)_ \
+	-D_$(SENSOR2)_ \
+	-D_$(NVT_ETHREARCAM)_ \
+	-D_$(NVT_ETHREARCAM_CAPS_COUNT)_ \
+	-D_$(ASR)_ \
+
+#----------------------------------------------------------------------
+# C define
+#----------------------------------------------------------------------
+
+C_DEFINE =
+
+C_DEFINE_EXT = \
+    $(MODELCONFIG_CFG) \
+

@@ -1,0 +1,225 @@
+#ifndef UI_CFG_DEFAULT_H
+#define UI_CFG_DEFAULT_H
+
+#include "UIFlow.h"
+
+//SN
+#define DEFAULT_SN                     "758CF9ILPSIVY3639CS0"
+
+// Photo
+#define DEFAULT_PHOTO_CAPTURE           SELFTIMER_OFF
+#if (SENSOR_CAPS_COUNT >= 2)
+#define DEFAULT_PHOTO_SIZE              PHOTO_SIZE_10M
+#else
+#define DEFAULT_PHOTO_SIZE              PHOTO_SIZE_12M
+#endif
+#define DEFAULT_PHOTO_QUALITY           QUALITY_FINE
+#define DEFAULT_PHOTO_COLOR             COLOR_EFFECT_STANDARD
+#define DEFAULT_SCENE                   SCENE_AUTO
+#define DEFAULT_EV                      EV_00
+#define DEFAULT_ISO                     ISO_AUTO
+#define DEFAULT_WB                      WB_AUTO
+#define DEFAULT_METERING                METERING_AIAE
+#define DEFAULT_SHARPNESS               SHARPNESS_NORMAL
+#define DEFAULT_SATURATION              SATURATION_NORMAL
+#define DEFAULT_FD                      FD_OFF
+#define DEFAULT_ANTISHAKING             ANTISHAKE_OFF
+#if defined(_Gyro_None_)
+#define DEFAULT_RSC                     RSC_OFF
+#else
+#define DEFAULT_RSC                     RSC_OFF
+#endif
+#define DEFAULT_WDR                     WDR_ON
+#define DEFAULT_QUICK_REVIEW            QUICK_REVIEW_0SEC
+#define DEFAULT_DATE_STAMP              DATE_STAMP_DATE_TIME
+#define DEFAULT_SELFTIMER               SELFTIMER_OFF
+#define DEFAULT_FLASH_MODE              FLASH_OFF
+#define DEFAULT_CONTINUE_SHOT           CONTINUE_SHOT_OFF
+#define DEFAULT_SHDR       SHDR_OFF//        SHDR_ON//SHDR_OFF
+#define DEFAULT_DEFOG                   DEFOG_OFF
+#if (PIP_VIEW_LR == ENABLE)
+#define DEFAULT_DUAL_CAM                DUALCAM_LR_16_9
+#else
+#if (SENSOR_CAPS_COUNT == 1)
+#define DEFAULT_DUAL_CAM                DUALCAM_FRONT
+#elif (SENSOR_CAPS_COUNT == 2)
+#define DEFAULT_DUAL_CAM                DUALCAM_BOTH
+#elif (SENSOR_CAPS_COUNT == 3)
+#define DEFAULT_DUAL_CAM                DUALCAM_BOTH
+#elif (SENSOR_CAPS_COUNT == 4)
+#define DEFAULT_DUAL_CAM                DUALCAM_BOTH
+#else
+#define DEFAULT_DUAL_CAM                DUALCAM_FRONT
+#endif
+#endif
+// Movie
+#if defined(_MODEL_ARTOSYN_DVCAM_EVB_)
+#define DEFAULT_MOVIE_SIZE              MOVIE_SIZE_FRONT_3840x2160P30
+#else
+
+#if (SENSOR_CAPS_COUNT >= 2)
+
+#if (_BOARD_DRAM_SIZE_ == 0x04000000)
+#define DEFAULT_MOVIE_SIZE              MOVIE_SIZE_DUAL_1920x1080P30_848x480P30
+#else
+#define DEFAULT_MOVIE_SIZE              MOVIE_SIZE_DUAL_1920x1080P30_1920x1080P30
+#endif
+
+#else
+
+#if (defined(_NVT_ETHREARCAM_TX_))
+#if 0//(ETH_REARCAM_CAPS_COUNT>=2)
+#define DEFAULT_MOVIE_SIZE              MOVIE_SIZE_FRONT_1920x1080P30
+#else
+#define DEFAULT_MOVIE_SIZE              MOVIE_SIZE_CLONE_1920x1080P30_1280x720P30//MOVIE_SIZE_CLONE_1920x1080P30_1280x720P60
+#endif
+#elif (defined(_NVT_ETHREARCAM_RX_))
+#if (ETH_REARCAM_CAPS_COUNT>=2)
+    #if ((SENSOR_CAPS_COUNT & SENSOR_ON_MASK)==0)
+    #define DEFAULT_MOVIE_SIZE              MOVIE_SIZE_DUAL_1920x1080P30_1920x1080P30
+    #else
+    #define DEFAULT_MOVIE_SIZE              MOVIE_SIZE_FRONT_1920x1080P30
+    #endif
+#else
+    #if (defined(_MODEL_ETHCAM_4K_FHD_RX_))
+    #define DEFAULT_MOVIE_SIZE              MOVIE_SIZE_FRONT_3840x2160P30
+    #else
+    #define DEFAULT_MOVIE_SIZE              MOVIE_SIZE_FRONT_1920x1080P30
+    #endif
+#endif
+#else
+#define DEFAULT_MOVIE_SIZE             MOVIE_SIZE_FRONT_1920x1080P30
+#endif
+
+#endif
+
+#endif
+#define DEFAULT_MOVIE_SIZE_DUAL     MOVIE_SIZE_DUAL_1920x1080P30_1920x1080P30// MOVIE_SIZE_CLONE_848x480P30_848x480P30//   MOVIE_SIZE_DUAL_1920x1080P30_1920x1080P30
+//#define DEFAULT_MOVIE_SIZE_SINGLE    MOVIE_SIZE_FRONT_1920x1080P30 //MOVIE_SIZE_FRONT_848x480P30//  
+
+#define DEFAULT_MOVIE_QUALITY           MOVIE_QUALITY_FINE
+#define DEFAULT_MOVIE_COLOR             MOVIE_COLOR_NORMAL
+#define DEFAULT_MOVIE_SELFTIMER         MOVIE_SELFTIMER_OFF
+#define DEFAULT_MOVIE_EV                EV_00
+#define DEFAULT_MOVIE_VIVILINK          VIVILINK_NONE
+#define DEFAULT_MOVIE_LDWS              MOVIE_LDWS_OFF
+#define DEFAULT_MOVIE_FCWS              MOVIE_FCW_OFF
+#define DEFAULT_MOVIE_CYCLICREC         MOVIE_CYCLICREC_1MIN
+#define DEFAULT_MOVIE_MOTION_DET        MOVIE_MOTIONDET_OFF
+#define DEFAULT_MOVIE_AUDIO             MOVIE_AUDIO_OFF//MOVIE_AUDIO_ON
+#define DEFAULT_MOVIE_DATEIMPRINT       MOVIE_DATEIMPRINT_ON
+#if (SHDR_FUNC==ENABLE)
+#define DEFAULT_MOVIE_HDR               MOVIE_HDR_ON
+#else
+#define DEFAULT_MOVIE_HDR               MOVIE_HDR_OFF
+#endif
+#define DEFAULT_MOVIE_WDR               MOVIE_WDR_ON
+#define DEFAULT_MOVIE_DEFOG             MOVIE_DEFOG_OFF
+#define DEFAULT_MOVIE_REC_VOLUME        MOVIE_VOL_MAX
+#define DEFAULT_MOVIE_REC_AUD           MOVIE_AUD_REC_ON
+#define DEFAULT_MOVIE_CONTRAST          MOVIE_CONTRAST_MIDDLE
+#define DEFAULT_MOVIE_AUDIOIN           MOVIE_AUDIOIN_ON
+#define DEFAULT_MOVIE_AUDIOIN_SR        MOVIE_AUDIOIN_SR_8000
+#define DEFAULT_MOVIE_FLIP_MIRROR       MOVIE_FLIP_MIRROR_NONE
+#define DEFAULT_MOVIE_QUALITY_SET       MOVIE_QUALITY_SET_MAX
+#define DEFAULT_MOVIE_SBS_MODE          MOVIE_SBS_LR
+#if defined(_Gyro_None_)
+#define DEFAULT_MOVIE_RSC               MOVIE_RSC_OFF //RSC not Ready
+#else
+#define DEFAULT_MOVIE_RSC               MOVIE_RSC_OFF
+#endif
+
+#define DEFAULT_MCTFINDEX               MOVIE_MCTF_ON
+
+#define DEFAULT_IR_CUT                  MOVIE_IR_CUT_OFF
+
+#define DEFAULT_MOVIE_TIMELAPSE_REC     MOVIE_TIMELAPSEREC_OFF
+#define DEFAULT_MOVIE_PIM               MOVIE_PIM_ON
+
+#define DEFAULT_MOVIE_PTZ                   MOVIE_PTZ_OFF
+
+#if PMOVIE_BSQINCARD_FUNC
+#define DEFAULT_MOVIE_URGENT_PROTECT_AUTO   MOVIE_URGENT_PROTECT_AUTO_ON
+#define DEFAULT_MOVIE_URGENT_PROTECT_MANUAL MOVIE_URGENT_PROTECT_MANUAL_ON
+#else
+#define DEFAULT_MOVIE_URGENT_PROTECT_AUTO   MOVIE_URGENT_PROTECT_AUTO_ON
+#define DEFAULT_MOVIE_URGENT_PROTECT_MANUAL MOVIE_URGENT_PROTECT_MANUAL_OFF
+#endif
+
+#define DEFAULT_SENSOR_1_DISP_OFFSET         IMG_DISP_POS_4
+#define DEFAULT_SENSOR_2_DISP_OFFSET         SEN_DISP_OFFSET_0
+
+
+#define DEFAULT_MOVIE_DDD                   MOVIE_DDD_OFF
+#define DEFAULT_MOVIE_ADAS_CAL              MOVIE_ADAS_CAL_OFF
+#define DEFAULT_MOVIE_CODEC       			MOVIE_CODEC_H264//MOVIE_CODEC_H265//          MOVIE_CODEC_H264
+
+#define DEFAULT_MOVIE_PARK            		MOVIE_PARK_OFF//  MOVIE_PARK_MED
+#define DEFAULT_AUTO_WIFI					WIFI_OFF
+#define DEFAULT_MOVIE_BACKADJUST    		MOVIE_BACKADJUST_ON
+//#MT#lyb -20200328 -begin
+#define DEFAULT_VOLUME                  	VOLUME_HIGH
+#define DEFAULT_SCREENLIGHT             	SCREENLIGHT_MANUAL
+#define DEFAULT_ALARM_LCA               	ALARM_LCA_ON
+//#MT#lyb -20200328 -end
+#if(_ANFA_ADAS_MENU_)
+#define DEFAULT_ANFA_ADAS               	ANFA_ADAS_ON
+#endif
+#define DEFAULT_BeepVolumnIndex				BEEP_VOL_3
+
+
+
+// Playback
+#define DEFAULT_PROTECT                 PROTECT_ONE
+#define DEFAULT_MOVIE_PLAY_VOLUME       (MOVIE_AUDIO_VOL_SETTING_MAX-1)
+
+// System
+#define DEFAULT_AUDIO_PLAY_VOLUME       AUDIO_VOL_MAX
+#define DEFAULT_AUTO_POWER_OFF          POWER_ON
+#define DEFAULT_LCD_OFF                 LCDOFF_ON
+#define DEFAULT_BEEP                    BEEP_ON
+#define DEFAULT_LANGUAGE                LANG_SC
+#define DEFAULT_FREQUENCY               FREQUENCY_50HZ
+#define DEFAULT_TV_MODE                 TV_MODE_NTSC
+#define DEFAULT_HDMI_MODE               VIDEOOUT2_AUTO
+#define DEFAULT_DUALDISP                DUALDISP_OFF
+#define DEFAULT_SENSOR_ROTATE           SEN_ROTATE_OFF
+#define DEFAULT_DATE_FORMAT             DATE_FORMAT_YMD
+#define DEFAULT_OPENING_LOGO            OPENING_LOGO_ON
+#if (defined(_NVT_ETHREARCAM_TX_))
+#define DEFAULT_LCD_DISPLAY             DISPOUT_OFF
+#else
+#define DEFAULT_LCD_DISPLAY             DISPOUT_NORMAL
+#endif
+#define DEFAULT_LCD_BRIGHTNESS          LCDBRT_LVL_07
+#define DEFAULT_MACRO                   MACRO_OFF
+#define DEFAULT_USB_MODE                USB_MODE_MSDC
+#if (GSENSOR_FUNCTION == ENABLE)
+#define DEFAULT_GSENSOR             GSENSOR_OFF// GSENSOR_MED
+#else
+#define DEFAULT_GSENSOR                 GSENSOR_OFF
+#endif
+#define DEFAULT_EDGE                    MOVIE_EDGE_ON
+#define DEFAULT_NR                      MOVIE_NR_ON
+
+//-----------------------------------------------------------------------------
+// System
+//-----------------------------------------------------------------------------
+#define UIDFT_FS_STATUS                 FS_NOT_INIT
+#define UIDFT_CARD_STATUS               CARD_REMOVED
+#define UIDFT_BATTERY_LVL               0
+#define UIDFT_AUDIO_VOLUME              AUDIO_VOL_7
+
+// Wi-Fi
+#define DEFAULT_MOVIE_WIFI_AUTO_RECORDING_OPTION    WIFI_AUTO_RECORDING_ON
+#define DEFAULT_WIFI_MODE                           NET_AP_MODE
+#if (WIFI_FINALCAM_APP_STYLE == ENABLE || UCTRL_APP_MOVIE_FEATURE_SETGET == ENABLE || YOUKU_SDK == ENABLE)
+#define DEFAULT_MOVIE_WIFI_APP_PREVIEW_SIZE    WIFI_MOVIE_APP_PREVIEW_SIZE_VGA_16_9
+#endif
+
+#define DEFAULT_ETHCAM_TX_IP_ADDR    0
+
+#define  DEFAULT_IMGDISP_POS_ID0  IMG_DISP_POS_4
+#define  DEFAULT_IMGDISP_POS_ID1  IMG_DISP_POS_4
+
+#endif

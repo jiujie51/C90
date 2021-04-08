@@ -1,0 +1,16 @@
+*.o
+*.O
+*.s
+*.S
+*.exe
+/uitron/tools/*
+*.bat
+*.lds
+*.ttl
+*.gdb
+*.axf
+*.d
+/build/*
+/configs/*
+/packages
+/u-boot/*

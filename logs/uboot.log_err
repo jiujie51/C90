@@ -1,0 +1,13 @@
+fatal: Not a git repository (or any of the parent directories): .git
+board/novatek/nvt-na51023/na51023_utils.c: In function ‘nvt_flash_mtdpart_config’:
+board/novatek/nvt-na51023/na51023_utils.c:317:27: warning: variable ‘pst_part_num’ set but not used [-Wunused-but-set-variable]
+  uint32_t i, j, part_num, pst_part_num;
+                           ^
+board/novatek/nvt-na51023/na51023_utils.c: In function ‘nvt_boot_ecos_bin_auto’:
+board/novatek/nvt-na51023/na51023_utils.c:1428:6: warning: unused variable ‘align_size’ [-Wunused-variable]
+  u32 align_size = 0;
+      ^
+board/novatek/nvt-na51023/na51023_utils.c: In function ‘nvt_boot_linux_bin_auto’:
+board/novatek/nvt-na51023/na51023_utils.c:1569:6: warning: unused variable ‘align_size’ [-Wunused-variable]
+  u32 align_size = 0;
+      ^

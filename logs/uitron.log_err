@@ -1,0 +1,943 @@
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:376:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:378:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:383:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:385:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:387:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:389:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:410:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:412:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:435:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:437:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:447:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:449:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:688:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:690:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:695:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:697:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:702:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/DispDevPanel/Disp_IFPA_LCD1_MD090TL01/MD090TL01.c:704:3: warning: "/*" within comment
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_RX/DxDisplay_LCD.c: In function 'DrvLCDOpen':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_RX/DxDisplay_LCD.c:344: warning: passing argument 2 of 'pad_getDrivingSink' from incompatible pointer type
+../../../../Include/Drv/Driver_Sys/pad.h:405: note: expected 'enum PAD_DRIVINGSINK *' but argument is of type 'UINT32 *'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_RX/DxPower_Battery.c:1009: warning: no previous prototype for 'DetVbatShutdown'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_RX/DxPower_Battery.c: In function 'DetVbatShutdown':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_RX/DxPower_Battery.c:1011: warning: unused variable 'uiVBAT_low_cnt'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_TX/DxPower_Battery.c: In function 'DrvPower_PowerOff':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/DrvExt/DrvExt_src/ModelExt/MIO_ETHCAM_TX/DxPower_Battery.c:523: warning: 'return' with a value, in function returning void
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb/ae_param_ar0237_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb/ae_param_ar0237_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb/ae_param_ar0237_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb/ae_param_ar0237_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb/ae_param_ar0237_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_evb/ae_param_ar0237_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb/ae_param_ar0237_rgbir_evb.c:174: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb/ae_param_ar0237_rgbir_evb.c:174: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb/ae_param_ar0237_rgbir_evb.c:174: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb/ae_param_ar0237_rgbir_evb.c:174: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb/ae_param_ar0237_rgbir_evb.c:174: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0237_rgbir_evb/ae_param_ar0237_rgbir_evb.c:174: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb/ae_param_ar0330_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb/ae_param_ar0330_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb/ae_param_ar0330_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb/ae_param_ar0330_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb/ae_param_ar0330_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0330_evb/ae_param_ar0330_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb/ae_param_ar0521_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb/ae_param_ar0521_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb/ae_param_ar0521_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb/ae_param_ar0521_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb/ae_param_ar0521_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ar0521_evb/ae_param_ar0521_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb/ae_param_imx290_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb/ae_param_imx290_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb/ae_param_imx290_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb/ae_param_imx290_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb/ae_param_imx290_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx290_evb/ae_param_imx290_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb/ae_param_imx291_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb/ae_param_imx291_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb/ae_param_imx291_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb/ae_param_imx291_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb/ae_param_imx291_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx291_evb/ae_param_imx291_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb/ae_param_imx307_evb.c:176: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb/ae_param_imx307_evb.c:176: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb/ae_param_imx307_evb.c:176: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb/ae_param_imx307_evb.c:176: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb/ae_param_imx307_evb.c:176: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx307_evb/ae_param_imx307_evb.c:176: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb/ae_param_imx317_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb/ae_param_imx317_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb/ae_param_imx317_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb/ae_param_imx317_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb/ae_param_imx317_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx317_evb/ae_param_imx317_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb/ae_param_imx377_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb/ae_param_imx377_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb/ae_param_imx377_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb/ae_param_imx377_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb/ae_param_imx377_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx377_evb/ae_param_imx377_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb/ae_param_imx335_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb/ae_param_imx335_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb/ae_param_imx335_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb/ae_param_imx335_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb/ae_param_imx335_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_imx335_evb/ae_param_imx335_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb/ae_param_jxk02_evb.c:161: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb/ae_param_jxk02_evb.c:161: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb/ae_param_jxk02_evb.c:161: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb/ae_param_jxk02_evb.c:161: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb/ae_param_jxk02_evb.c:161: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk02_evb/ae_param_jxk02_evb.c:161: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb/ae_param_jxk03_evb.c:162: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb/ae_param_jxk03_evb.c:162: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb/ae_param_jxk03_evb.c:162: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb/ae_param_jxk03_evb.c:162: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb/ae_param_jxk03_evb.c:162: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_jxk03_evb/ae_param_jxk03_evb.c:162: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb/ae_param_os05a10_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb/ae_param_os05a10_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb/ae_param_os05a10_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb/ae_param_os05a10_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb/ae_param_os05a10_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os05a10_evb/ae_param_os05a10_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb/ae_param_ov2735_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb/ae_param_ov2735_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb/ae_param_ov2735_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb/ae_param_ov2735_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb/ae_param_ov2735_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov2735_evb/ae_param_ov2735_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb/ae_param_os08a10_evb.c:172: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb/ae_param_os08a10_evb.c:172: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb/ae_param_os08a10_evb.c:172: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb/ae_param_os08a10_evb.c:172: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb/ae_param_os08a10_evb.c:172: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_os08a10_evb/ae_param_os08a10_evb.c:172: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb/ae_param_ov5658_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb/ae_param_ov5658_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb/ae_param_ov5658_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb/ae_param_ov5658_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb/ae_param_ov5658_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov5658_evb/ae_param_ov5658_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb/ae_param_ps5250_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb/ae_param_ps5250_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb/ae_param_ps5250_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb/ae_param_ps5250_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb/ae_param_ps5250_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ps5250_evb/ae_param_ps5250_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb/ae_param_ov4689_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb/ae_param_ov4689_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb/ae_param_ov4689_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb/ae_param_ov4689_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb/ae_param_ov4689_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_ov4689_evb/ae_param_ov4689_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb/ae_param_sample_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb/ae_param_sample_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb/ae_param_sample_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb/ae_param_sample_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb/ae_param_sample_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sample_evb/ae_param_sample_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb/ae_param_sc2235_evb.c:172: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb/ae_param_sc2235_evb.c:172: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb/ae_param_sc2235_evb.c:172: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb/ae_param_sc2235_evb.c:172: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb/ae_param_sc2235_evb.c:172: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2235_evb/ae_param_sc2235_evb.c:172: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb/ae_param_sc2310_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb/ae_param_sc2310_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb/ae_param_sc2310_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb/ae_param_sc2310_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb/ae_param_sc2310_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc2310_evb/ae_param_sc2310_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb/ae_param_sc4236_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb/ae_param_sc4236_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb/ae_param_sc4236_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb/ae_param_sc4236_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb/ae_param_sc4236_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4236_evb/ae_param_sc4236_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb/ae_param_sc4335_evb.c:162: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb/ae_param_sc4335_evb.c:162: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb/ae_param_sc4335_evb.c:162: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb/ae_param_sc4335_evb.c:162: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb/ae_param_sc4335_evb.c:162: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc4335_evb/ae_param_sc4335_evb.c:162: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb/ae_param_sc5035_evb.c:161: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb/ae_param_sc5035_evb.c:161: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb/ae_param_sc5035_evb.c:161: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb/ae_param_sc5035_evb.c:161: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb/ae_param_sc5035_evb.c:161: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc5035_evb/ae_param_sc5035_evb.c:161: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb/ae_param_sc8238_evb.c:173: warning: braces around scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb/ae_param_sc8238_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb/ae_param_sc8238_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb/ae_param_sc8238_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb/ae_param_sc8238_evb.c:173: warning: excess elements in scalar initializer
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_param/ae_param_sc8238_evb/ae_param_sc8238_evb.c:173: warning: (near initialization for 'dciris_cfg.iris_ctrl.ki')
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_proc/ae_proc_nvt/ae_proc_nvt.c: In function 'AE_SetCapAEArg':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/LibExt/LibExt_src/PluginAE/ae_proc/ae_proc_nvt/ae_proc_nvt.c:1477: warning: unused variable 'i'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/Kernel/SysCfg.c: In function 'Install_User':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/Kernel/SysCfg.c:663: warning: implicit declaration of function 'Sys_Wdt_InstallID'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/Kernel/SysCfg.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/Kernel/SysCfg.c:1117: warning: no previous prototype for 'Install_MultiCoreMEM'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/main.c:117: warning: no previous prototype for 'Nvti2c_DevPowerOnReset'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain.c:230: warning: no previous prototype for 'UserWaitEvent'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain.c:307: warning: no previous prototype for 'UI_Quit'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain.c:314: warning: no previous prototype for 'System_InstallModeObj'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain.c: In function 'UserMainProc':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain.c:383: warning: implicit declaration of function 'rtc_getPWR2Status'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain.c:391: warning: implicit declaration of function 'System_SetGsensorPwrOn'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Flow_Init.c:117: warning: no previous prototype for 'System_BindSysModule'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Flow_Init.c:178: warning: no previous prototype for 'System_BootStart'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Flow_Init.c:198: warning: no previous prototype for 'System_PowerOnBreak'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Flow_Init.c:215: warning: no previous prototype for 'System_BootEnd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:89: warning: no previous prototype for 'System_InstallAppObj'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:197: warning: no previous prototype for 'System_OnBoot'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c: In function 'System_OnBoot':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:251: warning: implicit declaration of function 'Sys_Wdt_Open'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:357:7: warning: "QH_CJSON_FUNCTION" is not defined
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:367: warning: implicit declaration of function 'AnfaAlgAuthProc_Init'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:399: warning: implicit declaration of function 'Get_VolumeValue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:414: warning: implicit declaration of function 'System_WifiStart'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:455: warning: no previous prototype for 'System_OnShutdown'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c: In function 'System_OnShutdown':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:529: warning: implicit declaration of function 'Sys_Wdt_Close'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:614: warning: no previous prototype for 'System_OnMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:638: warning: no previous prototype for 'System_OnSleepLevel'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:654: warning: no previous prototype for 'System_OnAppOpen'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Exe.c:695: warning: no previous prototype for 'System_OnAppClose'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Flow_Exit.c:62: warning: no previous prototype for '_System_PowerOff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Flow_Exit.c:75: warning: no previous prototype for 'System_ShutDownStart'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_Flow_Exit.c:88: warning: no previous prototype for 'System_ShutDownEnd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_cmd.c:48: warning: no previous prototype for 'sys_usage_dump'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_cmd.c:125: warning: no previous prototype for 'sys_profile_process'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_cmd.c:197: warning: no previous prototype for 'User_CommandFilter'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_cmd.c:448: warning: no previous prototype for 'Cmd_sys_reset'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_cmd.c:456: warning: no previous prototype for 'Cmd_sys_gitver'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_cmd.c:505: warning: no previous prototype for 'User_GetTempBuffer'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_cmd.c:540: warning: no previous prototype for 'User_RelTempBuffer'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_cmd.c:589: warning: no previous prototype for 'Cmd_dbg'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysMain_cmd.c:694: warning: no previous prototype for 'Cmd_user_readDriveBFile'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_CB.c:130: warning: no previous prototype for 'VdoOut_NewTempData'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:289: warning: no previous prototype for 'Check_VideoSize_BufferLimit'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:1122: warning: no previous prototype for 'System_EnableDisp'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:1747: warning: no previous prototype for 'System_OnVideoAttach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:1836: warning: no previous prototype for 'System_OnVideoDetach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:1841: warning: no previous prototype for 'System_OnVideoDir'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:1910: warning: no previous prototype for 'System_OnVideoInsert'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:2031: warning: no previous prototype for 'System_OnVideoRemove'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:2137: warning: no previous prototype for 'System_OnVideoMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:2236: warning: no previous prototype for 'System_DispSourceByTarget'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:2243: warning: no previous prototype for 'System_DispSource'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysAudio_Exe.c:237: warning: no previous prototype for 'System_OnAudioInsert'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysAudio_Exe.c:247: warning: no previous prototype for 'System_OnAudioRemove'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysAudio_Exe.c:258: warning: no previous prototype for 'System_OnAudioAttach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysAudio_Exe.c:265: warning: no previous prototype for 'System_OnAudioDetach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysAudio_Exe.c:270: warning: no previous prototype for 'System_OnAudioMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysAudio_Exe.c:275: warning: no previous prototype for 'System_OnAudioInput'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysAudio_Exe.c:280: warning: no previous prototype for 'System_OnAudioVol'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:2649: warning: no previous prototype for 'Display_HideSplash'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysVideo_Exe.c:2854: warning: no previous prototype for 'System_SetLCDBackLightLvlSeamless'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c:650: warning: no previous prototype for 'System_OnStrgInsert'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c:728: warning: no previous prototype for 'System_OnStrgRemove'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c:789: warning: no previous prototype for 'System_OnStrgAttach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c:905: warning: no previous prototype for 'System_OnStrgDetach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c: In function 'System_OnStrg_UploadFW':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c:1503: warning: implicit declaration of function 'DrvCARD_EnableCardPower'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c:1888: warning: no previous prototype for 'System_OnStrg_TxFirmware'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c: In function 'System_OnStrg_UploadFW':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysStrg_Exe.c:1384: warning: 'uiPartition_len' may be used uninitialized in this function
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysSensor_Exe.c:416: warning: no previous prototype for 'System_GetFirstSensorMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysSensor_Exe.c:711: warning: no previous prototype for 'System_MapSensorID'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysSensor_Exe.c:815: warning: no previous prototype for 'System_DispSensor'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysSensor_Exe.c:959: warning: no previous prototype for 'System_OnSensorInsert'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysSensor_Exe.c:1067: warning: no previous prototype for 'System_OnSensorRemove'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysSensor_Exe.c:1178: warning: no previous prototype for 'System_OnSensorDisplay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysSensor_Exe.c:1250: warning: no previous prototype for 'System_OnSensorAttach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysSensor_Exe.c:1488: warning: no previous prototype for 'System_OnSensorDetach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysLens_Exe.c:121: warning: no previous prototype for 'System_OnLensAttach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysLens_Exe.c:146: warning: no previous prototype for 'System_OnLensDetach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysLens_CB.c:23: warning: no previous prototype for 'Photo_LensCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysLens_CB.c:42: warning: no previous prototype for 'LensAPICB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysIpc_Exe.c:71: warning: no previous prototype for 'DSP1_Cmd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/nvtrtspd.c:26: warning: no previous prototype for 'UCTRL_OPEN'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/nvtrtspd.c:27: warning: no previous prototype for 'UCTRL_CLOSE'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/nvtrtspd.c:28: warning: no previous prototype for 'UCTRL_CMD'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbMsdcCb/MsdcNvtCb_TimeSi.c:44: warning: no previous prototype for 'MsdcNvtRegSi_TimeSi'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbMsdcCb/MsdcNvtCb_IQSim.c:3056: warning: no previous prototype for 'IQSISP_VirtualMemMap'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:233: warning: no previous prototype for 'KeySoundCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:242: warning: no previous prototype for 'Input_GroupStatus2Event'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c: In function 'System_OnInputInit':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:488: warning: implicit declaration of function 'ClearWavQueue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:526: warning: no previous prototype for 'AdjLCDBackLightLvl'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:592: warning: no previous prototype for 'UI_BLC_SeamlessCtrl'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c: In function 'UI_BLC_SeamlessCtrl':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:610: warning: implicit declaration of function 'System_SetLCDBackLightLvlSeamless'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:671: warning: no previous prototype for 'DrvKey_DetAcc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:699: warning: no previous prototype for 'UI_DetLongKey'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:847: warning: no previous prototype for 'UI_GetTouchEventMask'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:851: warning: no previous prototype for 'UI_RestoreTouchEventMask'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1230: warning: no previous prototype for 'GetPressEventName'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1299: warning: no previous prototype for 'System_UserKeyFilter'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1381: warning: no previous prototype for 'System_UserTouchFilter'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_cmd.c:60: warning: no previous prototype for 'Cmd_key_menu'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c: In function 'UI_DetUserFunc':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1428: warning: implicit declaration of function 'IQS_GetLogString'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1553: warning: no previous prototype for 'CompareCurrWavFile'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1566: warning: no previous prototype for 'GetCurrPlayWavTimes'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1572: warning: no previous prototype for 'GetWavFileNamePlaying'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c: In function 'UI_DetWavPlayControl':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1595: warning: implicit declaration of function 'WavPlayCtrl_GetWavToPlay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1604: warning: implicit declaration of function 'SetWavPlayCtrlStatus'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1419: warning: 'g_WDTStatus' defined but not used
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c: In function 'UI_DetUserFunc':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysInput_Exe.c:1426: warning: 'i' is used uninitialized in this function
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysPower_Exe.c:74: warning: no previous prototype for 'DxPower_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysPower_Exe.c:279: warning: no previous prototype for 'System_OnBattChange'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysPower_Exe.c:287: warning: no previous prototype for 'System_OnBattEmpty'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysPower_Exe.c:308: warning: no previous prototype for 'System_OnPwrChargeOK'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysPower_Exe.c:317: warning: no previous prototype for 'System_OnPwrChargeSuspend'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysPower_Exe.c:326: warning: no previous prototype for 'System_OnPwrChargeResume'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysPower_Exe.c:334: warning: no previous prototype for 'System_ResetPowerSaveCount'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysUsb_Exe.c:177: warning: no previous prototype for 'System_OnUsbInsert'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysUsb_Exe.c:234: warning: no previous prototype for 'System_OnUsbRemove'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/System/SysUsb_Exe.c:276: warning: no previous prototype for 'System_OnUsbChargeCurrent'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIDisplay.c:265: warning: no previous prototype for 'UI_IsShowSourceDirty'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIGraphics.c:369: warning: no previous prototype for 'UI_BeginWindow'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIGraphics.c:386: warning: no previous prototype for 'UI_EndWindow'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIGraphics.c:390: warning: no previous prototype for 'UI_BeginControl'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIGraphics.c:411: warning: no previous prototype for 'UI_EndControl'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIGraphics.c:512: warning: no previous prototype for 'UI_ForceShowString'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIView.c:66: warning: no previous prototype for 'UIDisplay_GetCleanBuf'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIView.c:76: warning: no previous prototype for 'UIDisplay_Init'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PlaybackView.c:12: warning: no previous prototype for 'View_Playback'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:61: warning: no previous prototype for 'p2_GetImageBuffer'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:125: warning: no previous prototype for 'p2_CalcImageBufferByRect'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:158: warning: no previous prototype for 'p2_CalcWinByRect'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:180: warning: no previous prototype for 'p2_Show'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:209: warning: no previous prototype for 'PhotoDisplay2_Update'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:311: warning: no previous prototype for 'View_Preview_SetDIS'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:329: warning: no previous prototype for 'View_Preview'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:356: warning: no previous prototype for 'View_Quickview'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:391: warning: no previous prototype for 'View_CS_Quickview'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:423: warning: no previous prototype for 'View_Guideview_L'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:455: warning: no previous prototype for 'View_Guideview_R'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/PhotoView.c:487: warning: no previous prototype for 'View_Photoframe'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/MovieView.c:19: warning: no previous prototype for 'View_Movie'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:32: warning: no previous prototype for 'UIDisplay1_OSD1_BM_get'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:48: warning: no previous prototype for 'UIDisplay_OSD_BM_calcsize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:70: warning: no previous prototype for 'UIDisplay_OSD_BM_attach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:92: warning: no previous prototype for 'UIDisplay_OSD_BM_detach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:96: warning: no previous prototype for 'UIDisplay_OSD_BM_copy'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:100: warning: no previous prototype for 'UIDisplay_OSD_BM_clear'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:104: warning: no previous prototype for 'UIDisplay1_VDO1_BM_get'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:108: warning: no previous prototype for 'UIDisplay1_VDO2_BM_get'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:118: warning: no previous prototype for 'UIDisplay_VDO_BM_calcsize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:132: warning: no previous prototype for 'UIDisplay_VDO_BM_attach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:146: warning: no previous prototype for 'UIDisplay_VDO_BM_detach'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:150: warning: no previous prototype for 'UIDisplay_VDO_BM_copy'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:154: warning: no previous prototype for 'UIDisplay_VDO_BM_clear'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UI/UIBuffer.c:211: warning: no previous prototype for 'UI_RegisterBuf'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_PipView.c:144: warning: no previous prototype for 'PipView_SetImg'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_PipView.c:172: warning: no previous prototype for 'PipView_OnDraw_2sensor'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_PipView.c:531: warning: no previous prototype for 'PipView_OnDraw_3sensor'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_PipView.c:678: warning: no previous prototype for 'PipView_OnDraw_4sensor_2view'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_PipView.c:693: warning: no previous prototype for 'PipView_OnDraw_4sensor'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_MoviePlayView.c:549: warning: no previous prototype for '_AppDisp_MoviePlayView_Scalar2Display'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_MoviePlayView.c:832: warning: no previous prototype for '_AppDisp_MoviePlayView_Close'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_MoviePlayView.c:851: warning: no previous prototype for '_AppDisp_MoviePlayView_CheckOneSecond'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_MoviePlayView.c:867: warning: no previous prototype for '_AppDisp_MoviePlayView_PushData'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_MoviePlayView.c:879: warning: no previous prototype for '_AppDisp_MoviePlayView_Trigger'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:41: warning: no previous prototype for 'WavPlay_DecodeAAC'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:145: warning: no previous prototype for 'WavPlay_Init'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:178: warning: no previous prototype for 'WavPlay_PlayData'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:417: warning: no previous prototype for 'SetWavPlayCtrlStatus'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:426: warning: no previous prototype for 'StopCurrWavPlay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:434: warning: no previous prototype for 'StopAndClearAllWavPlay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c: In function 'StopAndClearAllWavPlay':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:442: warning: implicit declaration of function 'ClearWavQueue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:448: warning: no previous prototype for 'UserPlayWav'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:465: warning: no previous prototype for 'ClearWavQueue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:465: warning: conflicting types for 'ClearWavQueue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:442: note: previous implicit declaration of 'ClearWavQueue' was here
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavPlay.c:480: warning: no previous prototype for 'WavPlayCtrl_GetWavToPlay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AppDisp_PBView.c:493: warning: no previous prototype for 'PBView_OnThumbDraw'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/WavPlay/WavTrans.c:27: warning: no previous prototype for 'WavPlay_EncodeAAC'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:8:6: warning: "VOICE_FUNCTION" is not defined
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:101: warning: no previous prototype for 'AudCmd_EventHandle'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:195: warning: no previous prototype for 'AudProcTsk'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:374: warning: no previous prototype for 'http_request'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:379: warning: no previous prototype for 'http_get_response'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:390: warning: no previous prototype for 'wifi_sta_connect'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:396: warning: no previous prototype for 'check_test_file'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:401: warning: no previous prototype for 'auth_check_info'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:408: warning: no previous prototype for 'auth_save_info'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:418: warning: no previous prototype for 'is_aispeech_auth'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:428: warning: no previous prototype for 'aiengine_wakeup'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:578: warning: no previous prototype for 'cec_check_auth'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:641: warning: no previous prototype for 'auth_net_ready'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/AudProc.c:646: warning: no previous prototype for 'auth_data_ready'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/MovieStamp/MovieStamp.c:3113: warning: no previous prototype for 'MovieStamp_VsConfigOsd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/MovieStamp/MovieStamp.c:3130: warning: no previous prototype for 'MovieStamp_VsAllocOsdBuf'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuCommon/MenuCommonItem.c:62: warning: no previous prototype for 'MenuCommonItem_GetSubValueIconId'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuCommon/TabMenu.c:12: warning: no previous prototype for 'TM_SelectTab'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuCommon/MenuMode.c:11: warning: no previous prototype for 'MenuCustom_Movie'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuCommon/MenuMode.c:22: warning: no previous prototype for 'MenuCustom_Photo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuCommon/MenuMode.c:35: warning: no previous prototype for 'MenuCustom_Playback'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuPlay/UIMenuWndPlayDel.c:62: warning: no previous prototype for 'UIMenuWndPlayDel_OnKeyShutter2'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuPlay/UIMenuWndPlayConfirmDel.c:96: warning: no previous prototype for 'UIMenuWndPlayConfirmDel_OnKeyShutter2'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/MenuSetup.c:88: warning: no previous prototype for 'MenuCustom_APP'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/MenuSetup.c:93: warning: no previous prototype for 'MenuCustom_WiFiInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/MenuSetup.c:98: warning: no previous prototype for 'MenuCustom_DateTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/MenuSetup.c:104: warning: no previous prototype for 'MenuCustom_Format'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/MenuSetup.c:115: warning: no previous prototype for 'MenuCustom_Default'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/MenuSetup.c:121: warning: no previous prototype for 'MenuCustom_Version'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:61: warning: no previous prototype for 'UIMenuWndSetupDefaultSetting_OnKeyShutter2'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupFormatConfirm.c:99: warning: no previous prototype for 'UIMenuWndSetupFormatConfirm_OnKeyShutter2'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c: In function 'UIMenuWndSetupWiFiInfo_OnOpen':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c:141: warning: pointer targets in passing argument 1 of 'QRCode_Encode' differ in signedness
+../../Include/Lib/LibThirdParty/QRCode/QR_Encode.h:9: note: expected 'unsigned char *' but argument is of type 'char *'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c:170: warning: no previous prototype for '_DrawQRCode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c:202: warning: no previous prototype for '_ShowOSDString'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c: In function 'UIMenuWndSetupWiFiInfo_Static_QRCode_OnRedraw':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c:239: warning: unused variable 'pString'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c:238: warning: unused variable 'bReadMenuInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c: In function 'UIMenuWndSetupWiFiInfo_OnOpen':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuSetup/UIMenuWndSetupWiFiInfo.c:68: warning: 'pMacAddr' may be used uninitialized in this function
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIMenu/UIMenuWiFi/UIMenuWndWiFiModuleLink.c:252: warning: no previous prototype for 'UIMenuWndWiFiModeLink_Tab_RefreshAndWiFiOff_OnKeyEnter'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowCommon/UIFlowWndWaitMoment.c:66: warning: no previous prototype for 'Ignore_func'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowCommon/UIFlowWndWaitMoment.c:28: warning: 'g_StringTmpBuf' defined but not used
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPhoto/UIFlowPhotoIcons.c:21: warning: no previous prototype for 'FlowPhoto_IconDrawDSCMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPhoto/UIFlowPhotoIcons.c:26: warning: no previous prototype for 'FlowPhoto_IconHideDSCMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPhoto/UIFlowPhotoIcons.c:101: warning: no previous prototype for 'FlowPhoto_IconDrawContinueShot'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPhoto/UIFlowPhotoIcons.c:115: warning: no previous prototype for 'FlowPhoto_IconHideContinueShot'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPhoto/UIFlowPhotoIcons.c:221: warning: no previous prototype for 'FlowPhoto_IconDrawHDR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPhoto/UIFlowPhotoIcons.c:234: warning: no previous prototype for 'FlowPhoto_IconHideHDR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c:328: warning: no previous prototype for 'CloseTimer'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c: In function 'UIFlowWndMovie_OnKeyUp':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c:1696: warning: implicit declaration of function 'FlowMovie_GetCurrRecTotalTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c: In function 'UIFlowWndMovie_OnMovieOneSec':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c:1900: warning: implicit declaration of function 'FlowMovie_SetCurrRecTotalTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c: In function 'UIFlowWndMovie_OnTimer':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c:2320: warning: unused variable 'EthDisconWaitRebootOkcnt'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c:2319: warning: unused variable 'EthDisconRebootFailed'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c:874: warning: 'bDetEthcamUpdate' defined but not used
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c:1114: warning: 'UIFlowWndMovie_OnALGEnd' defined but not used
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowWndMovie.c:3582: warning: 'Fun_UpdateBehindString' defined but not used
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieFuncs.c: In function 'FlowMovie_StopRec':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieFuncs.c:66: warning: implicit declaration of function 'FlowMovie_SetCurrRecTotalTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieFuncs.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieFuncs.c:104: warning: no previous prototype for 'FlowMovie_SetCurrRecTotalTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieFuncs.c:104: warning: conflicting types for 'FlowMovie_SetCurrRecTotalTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieFuncs.c:66: note: previous implicit declaration of 'FlowMovie_SetCurrRecTotalTime' was here
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieFuncs.c:112: warning: no previous prototype for 'FlowMovie_GetCurrRecTotalTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieFuncs.c:238: warning: no previous prototype for 'FlowMovie_OnHideCtrl'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieIcons.c:179: warning: no previous prototype for 'CalWeek_CurDay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieIcons.c:246: warning: no previous prototype for 'FlowMovie_IconDrawTopState'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieIcons.c:355: warning: no previous prototype for 'FlowMovie_IconHideBackLightLvl_Panel'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieIcons.c:377: warning: no previous prototype for 'FlowMovie_IconHideLCA_ALARM'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowMovie/UIFlowMovieIcons.c:383: warning: no previous prototype for 'FlowMovie_IconHideBehindProgressBar'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c: In function 'UIFlowWndPlay_OnChildClose':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1424: warning: implicit declaration of function 'FlowPlay_HidePhotoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1425: warning: implicit declaration of function 'FlowPlay_DrawVideoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1430: warning: implicit declaration of function 'FlowPlay_DrawPhotoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1431: warning: implicit declaration of function 'FlowPlay_HideVideoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1691: warning: no previous prototype for 'FlowPlay_DrawVideoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1691: warning: conflicting types for 'FlowPlay_DrawVideoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1425: note: previous implicit declaration of 'FlowPlay_DrawVideoOperate' was here
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1710: warning: no previous prototype for 'FlowPlay_HideVideoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1710: warning: conflicting types for 'FlowPlay_HideVideoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1431: note: previous implicit declaration of 'FlowPlay_HideVideoOperate' was here
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1718: warning: no previous prototype for 'FlowPlay_DrawPhotoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1718: warning: conflicting types for 'FlowPlay_DrawPhotoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1430: note: previous implicit declaration of 'FlowPlay_DrawPhotoOperate' was here
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1728: warning: no previous prototype for 'FlowPlay_HidePhotoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1728: warning: conflicting types for 'FlowPlay_HidePhotoOperate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1424: note: previous implicit declaration of 'FlowPlay_HidePhotoOperate' was here
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c: In function 'UIFlowWndPlay_OnTouchPanelClick':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlay.c:1766: warning: control reaches end of non-void function
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c: In function 'UIFlowWndPlayThumb_NaviKey':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c:97: warning: implicit declaration of function 'FlowPlayThumb_DrawDateTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c:102: warning: no previous prototype for 'Prj_GetModYMDStr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c:106: warning: no previous prototype for 'Prj_GetModDateTimeStr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c:110: warning: no previous prototype for 'FlowPlayThumb_DrawDateTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c:110: warning: conflicting types for 'FlowPlayThumb_DrawDateTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c:97: note: previous implicit declaration of 'FlowPlayThumb_DrawDateTime' was here
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c: In function 'UIFlowWndPlayThumb_Panel0_OnTouchPanelClick':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c:486: warning: unused variable 'path'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowWndPlayThumb.c:74: warning: 'g_StringTitleBuf' defined but not used
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowCBSlideShow.c:7: warning: no previous prototype for 'FlowPB_SliderCBFunc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Engineer/DynamicMenu.c:5: warning: no previous prototype for 'DMenu_SetItem'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowPlayFuncs.c:188: warning: no previous prototype for 'FlowPB_ThumbDisplay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIFlow/UIFlowPlay/UIFlowPlayIcons.c:780: warning: no previous prototype for 'FlowPB_DrawThumbRect'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Engineer/EngineerModeTbl.c:175: warning: no previous prototype for 'Self_Test'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Engineer/EngineerModeTbl.c:183: warning: no previous prototype for 'Cal_AudioTest'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Engineer/EngineerModeTbl.c:190: warning: no previous prototype for 'Cal_BurnIn'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Engineer/EngineerModeTbl.c:309: warning: no previous prototype for 'Cal_GetDefaultInRoot'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Engineer/BurnIn/AudioTestWnd.c:82: warning: no previous prototype for 'AudioTest_DrawTestResult'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Engineer/BurnIn/MoviePlayTestWnd.c:64: warning: no previous prototype for 'MoviePlayTestWnd_Close'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/DateTimeInfo.c:444: warning: no previous prototype for '_TimeRecord_Load'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/DateTimeInfo.c:451: warning: no previous prototype for '_TimeRecord_Save'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/DateTimeInfo.c:458: warning: no previous prototype for '_TimeRecord_CalcTimeDiff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/DateTimeInfo.c:463: warning: no previous prototype for '_TimeRecord_AddTimeDiff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIPhotoMapping.c:85: warning: no previous prototype for 'Get_MacroIndexFromValue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c:114: warning: no previous prototype for 'UI_SetSNInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c:126: warning: no previous prototype for 'UI_GetSNInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c:130: warning: no previous prototype for 'Load_SysSNInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c:154: warning: no previous prototype for 'Save_SysSNInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c: In function 'Load_MenuInfoForDisp':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c:250: warning: unused variable 'bDispInfoOnly'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c:249: warning: unused variable 'uiFWUpdate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c: In function 'System_UpdateFWReboot':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c:1334: warning: implicit declaration of function 'WavPlay_WriteWavData'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c:1353: warning: no previous prototype for 'System_UpdateTx'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c: In function 'System_UpdateTx':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/UIInfo/UIInfo.c:1359: warning: implicit declaration of function 'EthCamNet_GetEthLinkStatus'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/UIAppNetwork.c:2598: warning: no previous prototype for 'UINet_RtspInit'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/UIAppNetwork.c:2625: warning: no previous prototype for 'UINet_RtspUnInit'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/WifiAppXML.c:116: warning: no previous prototype for 'XML_RelPrivateMem'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/WifiAppXML.c:138: warning: no previous prototype for 'XML_AllocPrivateMem'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/WifiAppXML.c:172: warning: no previous prototype for 'XML_GetTempMem'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/WifiAppXML.c:468: warning: no previous prototype for 'XML_VdoReadCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/WifiAppXML.c:677: warning: no previous prototype for 'XML_CheckSub'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/WifiAppXML.c: In function 'XML_GetEthStatus':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/WifiAppXML.c:1495: warning: implicit declaration of function 'EthCamNet_GetEthLinkStatus'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:374: warning: no previous prototype for 'socketCliEthData1_GetRecvBufAddr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:403: warning: no previous prototype for 'socketCliEthData1_DestroyRecvBuff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:424: warning: no previous prototype for 'socketCliEthData1_GetRawEncodeBufAddr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:451: warning: no previous prototype for 'socketCliEthData1_DestroyRawEncodeBuff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:468: warning: no previous prototype for 'socketCliEthData1_GetBsBufAddr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:494: warning: no previous prototype for 'socketCliEthData1_DestroyBsBuff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:571: warning: no previous prototype for 'socketCliEthData2_GetRecvBufAddr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:602: warning: no previous prototype for 'socketCliEthData2_DestroyRecvBuff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:622: warning: no previous prototype for 'socketCliEthData2_GetBsBufAddr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:652: warning: no previous prototype for 'socketCliEthData2_DestroyBsBuff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:2075: warning: no previous prototype for 'socketCliEth_DecErrTimerOpen'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppSocket.c:2093: warning: no previous prototype for 'socketCliEth_DecErrTimerClose'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:199: warning: no previous prototype for 'EthCamCmd_SndCmdLock'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:204: warning: no previous prototype for 'EthCamCmd_SndCmdUnlock'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:234: warning: no previous prototype for 'EthCamCmdSnd_Tsk'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:352: warning: no previous prototype for 'EthCamCmdRcvHandler_Tsk'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:416: warning: no previous prototype for 'EthCam_GetCmdStr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:708: warning: no previous prototype for 'XML_ListResult'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:727: warning: no previous prototype for 'EthCamApp_CheckIfEthCamMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:753: warning: no previous prototype for 'EthCamCmdXML_skip_first_line'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:780: warning: no previous prototype for 'EthCamCmdXML_remove_escape'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:792: warning: no previous prototype for 'EthCamCmdXML_get_tag_name'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:827: warning: no previous prototype for 'EthCamCmdXML_get_tag_value'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:846: warning: no previous prototype for 'EthCamCmdXML_parsing_leaf'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:876: warning: no previous prototype for 'EthCamCmdXML_parsing_default_format'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:978: warning: no previous prototype for 'EthCamCmdXML_parsing_value_result'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1083: warning: no previous prototype for 'EthCamCmdXML_parsing_string_result'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1484: warning: no previous prototype for 'EthCam_STARTUP'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1490: warning: no previous prototype for 'EthCam_GetMovieTBR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1506: warning: no previous prototype for 'EthCam_GetMovieFps'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1520: warning: no previous prototype for 'EthCam_GetMovieCodec'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1535: warning: no previous prototype for 'EthCam_GetMovieRecSize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1554: warning: no previous prototype for 'EthCam_GetMovieGop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1569: warning: no previous prototype for 'EthCam_GetMovieSPS_PPS'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1635: warning: no previous prototype for 'EthCam_TxStreamStart'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1654: warning: no previous prototype for 'EthCam_TxStreamStop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1684: warning: no previous prototype for 'EthCam_GetMovieThumb'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1692: warning: no previous prototype for 'EthCam_GetMovieRawEncode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1714: warning: no previous prototype for 'EthCam_GetMovieRecInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1748: warning: no previous prototype for 'EthCam_GetMovieDecInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1790: warning: no previous prototype for 'EthCam_TxRtspStart'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1801: warning: no previous prototype for 'EthCam_SyncTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1817: warning: no previous prototype for 'EthCam_SyncMenuSetting'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1890: warning: no previous prototype for 'EthCam_TxResetI'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1906: warning: no previous prototype for 'EthCam_TxResetQueue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1917: warning: no previous prototype for 'EthCam_TxPowerOff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1926: warning: no previous prototype for 'EthCam_TxFWVersion'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1938: warning: no previous prototype for 'EthCam_SetTxIPReset'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1951: warning: no previous prototype for 'EthCam_SetTxSlideUP'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c: In function 'EthCam_SetTxSlideUP':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1953: warning: unused variable 'curDispOffset'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:1995: warning: no previous prototype for 'EthCam_SetTxSysInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2039: warning: no previous prototype for 'EthCam_SetTxCodecSrctype'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2085: warning: no previous prototype for 'EthCam_DumpTxBsInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2095: warning: no previous prototype for 'EthCam_TxFwUpdate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2220: warning: no previous prototype for 'EthCam_GetFrame'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2240: warning: no previous prototype for 'EthCam_TxDispCropSet'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2258: warning: no previous prototype for 'EthCam_ChangeMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2266: warning: no previous prototype for 'EthCam_IperfTest'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2324: warning: no previous prototype for 'EthCam_SetTxFlip'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2349: warning: no previous prototype for 'EthCam_SetTxAudCap'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2367: warning: no previous prototype for 'EthCam_SetTxAudInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2414: warning: no previous prototype for 'EthCam_TxLCARslt'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2452: warning: no previous prototype for 'EthCam_Startup_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2461: warning: no previous prototype for 'EthCam_MovieTBR_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2470: warning: no previous prototype for 'EthCam_MovieFps_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2477: warning: no previous prototype for 'EthCam_MovieGOP_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2484: warning: no previous prototype for 'EthCam_MovieCodec_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2492: warning: no previous prototype for 'EthCam_MovieRecSize_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2510: warning: no previous prototype for 'EthCam_MovieSPS_PPS_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2651: warning: no previous prototype for 'EthCam_MovieThumb_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2657: warning: no previous prototype for 'EthCam_MovieRawEncode_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2667: warning: no previous prototype for 'EthCam_MovieRecInfo_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2680: warning: no previous prototype for 'EthCam_MovieDecInfo_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2693: warning: no previous prototype for 'EthCam_TxFwUpdate_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2705: warning: no previous prototype for 'EthCam_SyncTime_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2712: warning: no previous prototype for 'EthCam_SyncMenuSetting_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2717: warning: no previous prototype for 'EthCam_GetFrame_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2722: warning: no previous prototype for 'EthCam_TxIOStatus_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2728: warning: no previous prototype for 'EthCam_TxFWVersion_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2737: warning: no previous prototype for 'EthCam_SetTxIPReset_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2743: warning: no previous prototype for 'EthCam_SetTxSysInfo_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2758: warning: no previous prototype for 'EthCam_SetTxCodecSrctype_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2772: warning: no previous prototype for 'EthCam_SetTxFlip_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2777: warning: no previous prototype for 'EthCam_SetTxAudCap_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2783: warning: no previous prototype for 'EthCam_SetTxAudInfo_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2788: warning: no previous prototype for 'EthCam_TxSlideUp_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2799: warning: no previous prototype for 'EthCam_TxSlideDown_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2834: warning: no previous prototype for 'EthCam_TxLCAInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2921: warning: no previous prototype for 'EthCam_TxLCAStop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:2964: warning: no previous prototype for 'EthCam_LCAInfo_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppCmd.c:3018: warning: no previous prototype for 'EthCam_RxGetLCAWrnRslt_CB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Network/EthCamAppNetwork.c:480: warning: no previous prototype for 'EthCamNet_LinkDet'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_cmd.c:237: warning: no previous prototype for 'Cmd_movie_dumpfdb'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_cmd.c:272: warning: no previous prototype for 'Cmd_movie_HDR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_cmd.c:291: warning: no previous prototype for 'Cmd_movie_get_desc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_cmd.c:329: warning: no previous prototype for 'Cmd_movie_trigger_thumb'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_cmd.c:342: warning: no previous prototype for 'Cmd_movie_trigger_rawencode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_cmd.c:366: warning: no previous prototype for 'Cmd_movie_disp_crop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:387: warning: no previous prototype for 'MovieExe_IQ_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:397: warning: no previous prototype for 'MovieExe_AE_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:407: warning: no previous prototype for 'MovieExe_AF_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:417: warning: no previous prototype for 'MovieExe_AWB_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:428: warning: no previous prototype for 'MovieExe_Cap_SetIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:477: warning: no previous prototype for 'MovieExe_SetDateStamp'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:557: warning: no previous prototype for 'MovieExe_CalcDispSize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:802: warning: no previous prototype for 'MovieExe_InitCommonMem'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:847: warning: no previous prototype for 'MovieExe_ExitCommonMem'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:874: warning: no previous prototype for 'MovieExe_OnMovieSize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:984: warning: no previous prototype for 'MovieExe_OnImageRatio'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1078: warning: no previous prototype for 'MovieExe_OnMovieQuality'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1098: warning: no previous prototype for 'MovieExe_OnWB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1113: warning: no previous prototype for 'MovieExe_OnColor'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1128: warning: no previous prototype for 'MovieExe_OnEV'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1147: warning: no previous prototype for 'MovieExe_OnContrast'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1167: warning: no previous prototype for 'MovieExe_OnAudioIn'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1174: warning: no previous prototype for 'MovieExe_OnAudioInSR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1181: warning: no previous prototype for 'MovieExe_OnFipMirror'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1216: warning: no previous prototype for 'MovieExe_OnQualitySet'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1253: warning: no previous prototype for 'MovieExe_OnMovieAudio'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1290: warning: no previous prototype for 'MovieExe_OnMovieAudioRecVolume'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1308: warning: no previous prototype for 'MovieExe_OnMovieAudioRec'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1322: warning: no previous prototype for 'MovieExe_OnDigitalZoom'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1380: warning: no previous prototype for 'MovieExe_OnMCTF'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1393: warning: no previous prototype for 'MovieExe_OnEdge'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1410: warning: no previous prototype for 'MovieExe_OnNR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1428: warning: no previous prototype for 'MovieExe_OnRSC'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1475: warning: no previous prototype for 'MovieExe_OnWDR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1498: warning: no previous prototype for 'MovieExe_OnSHDR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1556: warning: no previous prototype for 'MovieExe_OnDefog'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1576: warning: no previous prototype for 'MovieExe_OnSensorRotate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1615: warning: no previous prototype for 'MovieExe_OnIRCut'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1689: warning: no previous prototype for 'MovieExe_OnDateImprint'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1702: warning: no previous prototype for 'MovieExe_OnGSENSOR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1739: warning: no previous prototype for 'MovieExe_OnMoviePark'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1759: warning: no previous prototype for 'MovieExe_OnSetLCDBRIGHTLVL'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1774: warning: no previous prototype for 'MovieExe_OnSetMovieBackAdjust'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1789: warning: no previous prototype for 'MovieExe_OnCyclicRec'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: In function 'MovieExe_OnCyclicRec':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1796: warning: unused variable 'uhSelect'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1895: warning: no previous prototype for 'MovieExe_OnMotionDet'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:2672: warning: no previous prototype for 'PipView_SetDispImgOnLcdStartY'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:2682: warning: no previous prototype for 'MovieExe_SetIMECrop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:2749:16: warning: unknown escape sequence: '\040'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:2749:16: warning: unknown escape sequence: '\040'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:2765: warning: no previous prototype for 'MovieExe_SetIMECropCustom'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:2800: warning: no previous prototype for 'MovieExe_EthCamSetISECrop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:2860: warning: no previous prototype for 'MovieExe_EthCamSetISECropCustom'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5170: warning: no previous prototype for 'GetLastFile_SN'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5220: warning: no previous prototype for 'CheckFileRecovery'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: In function 'CheckFileRecovery':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5328: warning: implicit declaration of function 'SMediaPlay_FileRecovery'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5239: warning: unused variable 'FileSN'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5227: warning: unused variable 'uiMp4totalSrc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5344: warning: no previous prototype for 'MovieExe_OnOpen'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: In function 'MovieExe_OnOpen':/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_CB.c:145: warning: no previous prototype for 'UIMovie_MovieFileNamingCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_CB.c:150: warning: no previous prototype for 'UIMovie_EMRMovFileNamingCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_CB.c:155: warning: no previous prototype for 'UIMovie_PhotoFileNamingCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_CB.c:166: warning: no previous prototype for 'UIMovie_AFCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_CB.c:193: warning: no previous prototype for 'Movie_IPLCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_CB.c:318: warning: no previous prototype for 'Movie_CaptureCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_CB.c:362: warning: no previous prototype for 'UIMovie_AeIRCutCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_CB.c:373: warning: no previous prototype for 'Movie_3NDRCB'
+
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5351: warning: implicit declaration of function 'SetEthPowerOn'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5481: warning: no previous prototype for 'MovieExe_OnClose'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: In function 'MovieExe_OnClose':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5558: warning: implicit declaration of function 'SetEthPowerOff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:5735: warning: no previous prototype for 'MovieExe_OnRecStart'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6054: warning: no previous prototype for 'MovieExe_OnStrmStart'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6142: warning: no previous prototype for 'MovieExe_OnRecStep'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6147: warning: no previous prototype for 'MovieExe_OnRecStop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6197: warning: no previous prototype for 'MovieExe_OnStrmStop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6229: warning: no previous prototype for 'MovieExe_OnUvacStart'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6291: warning: no previous prototype for 'MovieExe_OnUvacStop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6310: warning: no previous prototype for 'MovieExe_OnRecPIM'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6315: warning: no previous prototype for 'MovieExe_OnRecRawEnc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6352: warning: no previous prototype for 'MovieExe_OnCallback'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6396: warning: no previous prototype for 'MovieExe_OnVideoChange'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6410: warning: no previous prototype for 'MovieExe_OnDualcam'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6495: warning: no previous prototype for 'MovieExe_OnProtectAuto'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6555: warning: no previous prototype for 'MovieExe_OnProtectManual'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6616: warning: no previous prototype for 'MovieExe_OnLDWS'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6621: warning: no previous prototype for 'MovieExe_OnFCW'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:6626: warning: no previous prototype for 'MovieExe_OnPauseResume'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:7164: warning: no previous prototype for 'MovieExe_OnALGEnd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:7174: warning: no previous prototype for 'MovieExe_OnADASSetCropWin'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:7191: warning: no previous prototype for 'MovieExe_OnMotionDetRun'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:7199: warning: no previous prototype for 'MovieExe_OnCodec'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:7250: warning: no previous prototype for 'MovieExe_OnSensorHotPlug'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:7268: warning: no previous prototype for 'MovieExe_OnEthcamHotPlug'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: In function 'MovieExe_OnSetMovieBackAdjust':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1786: warning: control reaches end of non-void function
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c: In function 'MovieExe_OnSetLCDBRIGHTLVL':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:1772: warning: control reaches end of non-void function
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_RecSetting.c:285: warning: no previous prototype for 'Movie_GetSensorRecMask'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_RecSetting.c:290: warning: no previous prototype for 'Movie_SetSensorRecMask'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_RecSetting.c:296: warning: no previous prototype for 'Movie_GetMovieRecMask'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_RecSetting.c:339: warning: no previous prototype for 'Movie_GetCloneRecMask'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_RecSetting.c:355: warning: no previous prototype for 'Movie_SetResvSize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_RecSetting.c:393: warning: no previous prototype for 'Movie_GetFreeSec'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_CB.c:33: warning: no previous prototype for 'Photo_GenDateStrCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_CB.c:41: warning: no previous prototype for 'Photo_GenDatePicCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_CB.c:49: warning: no previous prototype for 'Photo_WriteExifCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_CB.c:62: warning: no previous prototype for 'Photo_WriteDebugCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_CB.c:89: warning: no previous prototype for 'Photo_ShutterSoundCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_CB.c:93: warning: no previous prototype for 'Photo_AFCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_CB.c:132: warning: no previous prototype for 'Photo_IPLCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_CB.c:191: warning: no previous prototype for 'Photo_CaptureCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_CB.c:313: warning: no previous prototype for 'Photo_3NDRCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:291: warning: no previous prototype for 'AF_LOCK'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:303: warning: no previous prototype for 'AF_ISLOCK'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:317: warning: no previous prototype for 'AF_WAIT_IDLE'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:329: warning: no previous prototype for 'PhotoExe_IPL_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:348: warning: no previous prototype for 'PhotoExe_IQ_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:359: warning: no previous prototype for 'PhotoExe_AE_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:370: warning: no previous prototype for 'PhotoExe_AF_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:381: warning: no previous prototype for 'PhotoExe_AWB_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:392: warning: no previous prototype for 'PhotoExe_Cap_SetUIInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:412: warning: no previous prototype for 'PhotoExe_IPL_AlgSetFD_AEInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:922: warning: no previous prototype for 'PhotoExe_GetDispCord'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:1340: warning: no previous prototype for 'PhotoExe_GetFileSN'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:1345: warning: no previous prototype for 'PhotoExe_CheckSNFull'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2104: warning: no previous prototype for 'PhotoExe_OnSleep'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2111: warning: no previous prototype for 'PhotoExe_OnWakeup'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2118: warning: no previous prototype for 'PhotoExe_OnMacro'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2131: warning: no previous prototype for 'PhotoExe_OnSelftimer'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2144: warning: no previous prototype for 'PhotoExe_OnFlash'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2172: warning: no previous prototype for 'PhotoExe_OnEV'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2187: warning: no previous prototype for 'PhotoExe_OnCaptureSize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2201: warning: no previous prototype for 'PhotoExe_OnQuality'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2214: warning: no previous prototype for 'PhotoExe_OnWB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2228: warning: no previous prototype for 'PhotoExe_OnColor'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2245: warning: no previous prototype for 'PhotoExe_OnISO'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2322: warning: no previous prototype for 'PhotoExe_OnCaptureMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2379: warning: no previous prototype for 'PhotoExe_OnFD'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2412: warning: no previous prototype for 'PhotoExe_OnContShot'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2427: warning: no previous prototype for 'PhotoExe_OnSceneMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2482: warning: no previous prototype for 'PhotoExe_OnCaptureStart'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2808: warning: no previous prototype for 'PhotoExe_OnCaptureStop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2819: warning: no previous prototype for 'PhotoExe_OnCaptureEnd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:2826: warning: no previous prototype for 'PhotoExe_OnZoom'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3043: warning: no previous prototype for 'PhotoExe_OnStartFunc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3072: warning: no previous prototype for 'PhotoExe_OnStopFunc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3103: warning: no previous prototype for 'PhotoExe_OnAFProcess'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3156: warning: no previous prototype for 'PhotoExe_OnAFRelease'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3172: warning: no previous prototype for 'PhotoExe_OnAFWaitEnd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3191: warning: no previous prototype for 'PhotoExe_OnImageRatio'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3282: warning: no previous prototype for 'PhotoExe_OnCallback'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3402: warning: no previous prototype for 'PhotoExe_OnFDEnd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3416: warning: no previous prototype for 'PhotoExe_OnSHDR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3437: warning: no previous prototype for 'PhotoExe_OnWDR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3456: warning: no previous prototype for 'PhotoExe_OnDefog'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3473: warning: no previous prototype for 'PhotoExe_OnAntishake'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3486: warning: no previous prototype for 'PhotoExe_OnEdge'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3505: warning: no previous prototype for 'PhotoExe_OnNR'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3525: warning: no previous prototype for 'PhotoExe_OnFocusEnd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3542: warning: no previous prototype for 'PhotoExe_OnInitDateBuf'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3550: warning: no previous prototype for 'PhotoExe_OnGenDateStr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3560: warning: no previous prototype for 'PhotoExe_OnGenDatePic'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3572: warning: no previous prototype for 'PhotoExe_OnRSC'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3599: warning: no previous prototype for 'PhotoExe_OnGdc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3621: warning: no previous prototype for 'PhotoExe_OnSharpness'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3637: warning: no previous prototype for 'PhotoExe_OnSaturation'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3651: warning: no previous prototype for 'PhotoExe_OnPlayShutterSound'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3677: warning: no previous prototype for 'PhotoExe_OnVideoChange'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3690: warning: no previous prototype for 'PhotoExe_OnDualcam'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:3793: warning: no previous prototype for 'PhotoExe_OnSensorHotPlug'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_cmd.c:422: warning: no previous prototype for 'cmd_photo_dumpfdb'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_cmd.c:429: warning: no previous prototype for 'cmd_photo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIDateImprint.c:86: warning: no previous prototype for 'UiDateImprint_Lock'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIDateImprint.c:92: warning: no previous prototype for 'UiDateImprint_UnLock'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIDateImprint.c:249: warning: no previous prototype for 'UiDateImprint_GetMaxWorkBufSize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIDateImprint.c:254: warning: no previous prototype for 'UiDateImprint_SelStampFont'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIDateImprint.c:294: warning: no previous prototype for 'UiDateImprint_Event2Info'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Photo/UIStorageCheck.c:137: warning: no previous prototype for 'UIStorageCheck_Error'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:379: warning: no previous prototype for 'eCos_Dhcp_Set_Interface'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:383: warning: no previous prototype for 'eCos_Dhcp_Client_Stop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:398: warning: no previous prototype for 'eCos_Dhcp_Client_Start'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:422: warning: no previous prototype for 'eCos_Dhcp_Server_Start'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:440: warning: no previous prototype for 'eCos_Dhcp_Server_Stop'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:483: warning: no previous prototype for 'drvmib_set'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:505: warning: no previous prototype for 'drvmib_get'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:583: warning: no previous prototype for 'join_bss_request'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:609: warning: no previous prototype for 'getWlSiteSurveyRequest'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:643: warning: no previous prototype for 'getWlSiteSurveyResult'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:673: warning: no previous prototype for 'print_bss_desc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:761: warning: no previous prototype for 'do_site_survey'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:1061: warning: no previous prototype for 'getWlStaNum'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:1089: warning: no previous prototype for 'getWlStaInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:1115: warning: no previous prototype for 'show_associated_clients'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:1231: warning: no previous prototype for 'getPstaInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:1276: warning: no previous prototype for 'getWlBssInfo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:1303: warning: no previous prototype for 'translate_control_code'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:1330: warning: no previous prototype for 'show_bss_status'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:1348: warning: no previous prototype for 'show_bss_info'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:1439: warning: no previous prototype for 'dump_wifi_settings'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2131: warning: no previous prototype for 'wsc_flash_param_handler_sample'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2198: warning: no previous prototype for 'generate_pin_code'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2257: warning: no previous prototype for 'wsc_event_cb_func_sample'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2269: warning: no previous prototype for 'print_wscd_status'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2383: warning: no previous prototype for 'wifi_link_status_cb_func_sample'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2412: warning: no previous prototype for 'wifi_sta_status_cb_func_sample'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2484: warning: no previous prototype for 'delete_interface_addr'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2514: warning: no previous prototype for 'sample_sys_main'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2777: warning: no previous prototype for 'hex2byte'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2789: warning: no previous prototype for 'hexstr2bin'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/eCos/test_wifi.c:2806: warning: no previous prototype for 'create_sample_sys_thread'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppPlay_Exe.c:157: warning: no previous prototype for 'PlayExe_ExitCommonMem'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppPlay_Exe.c:254: warning: no previous prototype for 'PBDecVideoCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppPlay_Exe.c:416: warning: no previous prototype for 'PlayExe_OnVideoChange'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:57: warning: no previous prototype for 'MoviePlayExe_LibGetTotalSecs'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:63: warning: no previous prototype for 'MoviePlayExe_LibGetEV'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:67: warning: no previous prototype for 'MoviePlayExe_LibGetVideoWidth'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:73: warning: no previous prototype for 'MoviePlayExe_CapFileNamingCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:100: warning: no previous prototype for 'MoviePlayExe_OpenPlay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:129: warning: no previous prototype for 'MoviePlayExe_ClosePlay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:137: warning: no previous prototype for 'MoviePlayExe_PausePlay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:143: warning: no previous prototype for 'MoviePlayExe_StartPlay'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:224: warning: no previous prototype for 'MoviePlayExe_SwitchFirstFrame'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:230: warning: no previous prototype for 'MoviePlayExe_PlayStepFwd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:235: warning: no previous prototype for 'MoviePlayExe_PlayStepBwd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:241: warning: no previous prototype for 'MoviePlayExe_PlayFwd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:245: warning: no previous prototype for 'MoviePlayExe_PlayBwd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:249: warning: no previous prototype for 'MoviePlayExe_SwitchLastFrame'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:258: warning: no previous prototype for 'MoviePlayExe_ChangeSize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Play/UIAppMoviePlay_Exe.c:263: warning: no previous prototype for 'MoviePlayExe_OnAudPlayVolume'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:43: warning: no previous prototype for 'Get_VolumeValue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:153: warning: no previous prototype for 'SetupExe_OnFILEDB_FILEID_RESET'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:198: warning: no previous prototype for 'SetupExe_OnFormat'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:218: warning: no previous prototype for 'SetupExe_OnBeepVolume'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:238: warning: no previous prototype for 'SetupExe_OnScreenLight'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:252: warning: no previous prototype for 'SetupExe_OnAlarm_LCA'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:267: warning: no previous prototype for 'SetupExe_OnANFA_ADAS'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:281: warning: no previous prototype for 'SetupExe_OnBeepKey'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:300: warning: no previous prototype for 'SetupExe_OnLanguage'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:324: warning: no previous prototype for 'SetupExe_OnFreq'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:342: warning: no previous prototype for 'SetupExe_OnChangeDSCMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:395: warning: no previous prototype for 'SetupExe_OnForceToLivedMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:441: warning: no previous prototype for 'SetupExe_OnForceToPlaybackMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:457: warning: no previous prototype for 'SetupExe_OnLCDOff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:514: warning: no previous prototype for 'SetupExe_OnPowerOff'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:562: warning: no previous prototype for 'SetupExe_OnSysReset'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:593: warning: no previous prototype for 'SetupExe_OnSysResetNoWin'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:606: warning: no previous prototype for 'SetupExe_OnNumReset'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:618: warning: no previous prototype for 'SetupExe_OnBrightAdj'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:633: warning: no previous prototype for 'SetupExe_OnBrightLvl'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:653: warning: no previous prototype for 'SetupExe_OnUSBMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:675: warning: no previous prototype for 'SetupExe_OnTVFormat'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:758: warning: no previous prototype for 'SetupExe_OnDualDisp'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:1071: warning: no previous prototype for 'SetupExe_OnDateFormat'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:1086: warning: no previous prototype for 'SetupExe_OnTimeFormat'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:1100: warning: no previous prototype for 'SetupExe_OnDate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:1121: warning: no previous prototype for 'SetupExe_OnTime'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:1140: warning: no previous prototype for 'SetupExe_OnFWUpdate'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:1161: warning: no previous prototype for 'SetupExe_OnPreviewMode'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:1183: warning: no previous prototype for 'SetupExe_OnCopy2Card'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Setup/UISetup_Exe.c:1194: warning: no previous prototype for 'SetupExe_OnPbRetractLens'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Background/UIBackgroundObj.c:238: warning: no previous prototype for 'Background_CopyTo'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Background/UIBackgroundObj.c:477: warning: no previous prototype for 'BackgroundCopy2Nand'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Background/UIBackgroundObj.c: In function 'BackgroundEthCamDecErr':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Background/UIBackgroundObj.c:1719: warning: implicit declaration of function 'socketCliEth_DecErrTimerClose'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/Background/UIBackgroundObj.c:1720: warning: implicit declaration of function 'socketCliEth_DecErrTimerOpen'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:294: warning: no previous prototype for 'xUvac_SetSDSlow'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:298: warning: no previous prototype for 'xUvac_MFKRecordCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:302: warning: no previous prototype for 'xUvac_Movie_IPLCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:306: warning: no previous prototype for 'xUvac_Movie_RecordCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:345: warning: no previous prototype for 'xUvac_Movie_CaptureCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:350: warning: no previous prototype for 'xUvac_MFKRegCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:357: warning: no previous prototype for 'xUvac_SetMFKRecParam'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:623: warning: no previous prototype for 'xUvac_ConfigMovieSizeCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:663: warning: no previous prototype for 'xUvac_InitSetMFK'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:751: warning: no previous prototype for 'xUvacWinUSBCB'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:756: warning: no previous prototype for 'xUvacEUVendCmdCB_Idx1'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:1035: warning: no previous prototype for 'UsbCamExe_UserEventCb'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:1126: warning: no previous prototype for 'UVACExe_ExitCommonMem'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:1136: warning: no previous prototype for 'UVACExe_OnOpen'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCam/UIAppUsbCam_Exe.c:1246: warning: no previous prototype for 'UVACExe_OnClose'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbDisk/UIAppUsbDisk_Exe.c:291: warning: no previous prototype for 'MSDCExe_OnOpen'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbDisk/UIAppUsbDisk_Exe.c:312: warning: no previous prototype for 'MSDCExe_OnClose'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCharge/UIAppUsbCharge_Exe.c:36: warning: no previous prototype for 'USBChargeExe_OnOpen'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIApp/UsbCharge/UIAppUsbCharge_Exe.c:42: warning: no previous prototype for 'USBChargeExe_OnClose'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UCtrlApp/Mode/UCtrlMode.c:198: warning: no previous prototype for 'UCtrlMode_InstallCmd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Resource/BG_Opening.c:7: warning: no previous prototype for 'Logo_getBGOpening_size'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Resource/BG_Opening.c:12: warning: no previous prototype for 'Logo_getBGGoodbye_size'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Resource/UIResource.c:547: warning: no previous prototype for 'Get_LanguageValue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_id.c: In function 'alg_InstallID':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_id.c:49: warning: implicit declaration of function 'Anfa_ADAS_InstallID'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/SrcCode/UIWnd/SPORTCAM/Resource/SoundData.c:9494: warning: no previous prototype for 'DxVoiceCtrl_AddSinglePlayQueue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_VdoOut.c:165: warning: no previous prototype for 'alg_VdoOut_Draw'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_MovieStamp.c:736: warning: no previous prototype for 'MovieStamp_DrawALG'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1515: warning: no previous prototype for 'Movie_AnfaAdasInit'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1533: warning: no previous prototype for 'Movie_AnfaAdasProcess'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c: In function 'Movie_AnfaAdasProcess':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1562: warning: implicit declaration of function 'GSensor_IsOpened'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1567: warning: implicit declaration of function 'GSensor_GetAxisValue'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1582: warning: no previous prototype for 'Movie_AnfaAdasProcessEnd'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c: In function 'Movie_AnfaAdasProcessEnd':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1695: warning: implicit declaration of function 'UserPlayWav'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1643: warning: unused variable 'iMinx'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1643: warning: unused variable 'iMaxW'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1642: warning: unused variable 'i'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:1639: warning: unused variable 'gMovieOsdDispCord'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:3448: warning: no previous prototype for 'Movie_DSPFunc'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:3456: warning: no previous prototype for 'Movie_DSPProcess'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:3630: warning: no previous prototype for 'Movie_md_CalBufSize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:3639: warning: no previous prototype for 'Movie_md_CalCacheBufSize'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:3644: warning: no previous prototype for 'Movie_md_init'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:3674: warning: no previous prototype for 'Movie_md_process'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_Movie_PhotoFuncInfo.c:3724: warning: no previous prototype for 'Movie_md_uninit'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_UIFlowWndMovie.c:1199: warning: no previous prototype for 'UIFlowWndMovie_ALG_Draw_OSD'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_UIFlowWndMovie.c:1256: warning: no previous prototype for 'UIFlowWndMovie_ALG_Clear_OSD'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_UIFlowWndMovie.c:1266: warning: no previous prototype for 'UIFlowWndMovie_AV_LCA_Draw'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_AnfaLicense.c:110: warning: no previous prototype for 'start_wifi_station_connect'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_AnfaLicense.c: In function 'start_wifi_station_connect':
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_AnfaLicense.c:113: warning: unused variable 'security'
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_AnfaLicense.c: At top level:
+/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/uitron/Project/DemoKit/../../Alg/PlugIn/alg_AnfaLicense.c:163: warning: no previous prototype for 'AnfaAlgAuth_VoicePrompts'

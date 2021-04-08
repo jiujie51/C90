@@ -1,0 +1,139 @@
+4-1
+加入语音控制					audproc 使用cpu2 ,要在ecos中添加对应的ipc函数，编译之后ecos会增大，要加大ecos分区的大小
+
+1-22
+优化后路通信失败的图标显示和重连机制			失败先等待几秒看能否再次成功连接上通信
+加上看门狗					STARTWDT_FUNCTION
+优化后方来车报警逻辑				临界问题 (65535-threhold , 0+threhold)
+1-20
+加入升级进度条提示
+12-30
+光圈值改为25
+12-22
+背光调节默认开					DEFAULT_MOVIE_BACKADJUST
+12-21
+暂时屏蔽后方来车报警功能				菜单位置起始265，commonitem.c中 PAGE=10 commonitemres.c注释LCA部分，item改为5
+
+12-18
+关闭TMNR测试
+
+12-17
+录音通道改为STEREO				recsetting
+前车起步停车只报警一次				g_ADAS_CarStop_Alarm_OneShot
+断开电源不进入停车监控执行关机流程			DetVbatShutdown()
+12-16
+进入停车监控关闭屏幕，acc on之后点亮屏幕		g_EnterParkingMode_CloseBL
+12-15
+gc2053m support change frame rate 			g_p_gc2053m_drv_info->SENSOR_FPS_INFO = TRUE
+qituing.c里取消NMR_VdoEnc_GetRC
+12-14
+加入logfile功能，暂时取消sd卡格式化检测
+12-11
+无法切换前后路					TBR_SIZE_RATIO改为120
+12-2
+硬件复位LCD无图像					转换芯片复位键要开机复位，电阻没焊
+11-30
+停车报警时长不再用算法的MD_gsensor，改为用gsensor的驱动函数
+11-27
+调整停车报警时长					MD_gsensor
+11-26
+解决算法卡死问题					算法和ethcam通信冲突，(开机时后方有车就会出现，)ethcam未完成连接，在ETHCAM_CMD_GET_TX_MOVIE_THUMB之后开始
+解决路测死机问题					算法和ethcam通信冲突，(进相册，修改时间后方有车会出现)同步时间发送数据和senstr的应答冲突，增加多一个ethcamcmd，
+						在每次同步时间前通知TX不要sentstr，同步之后通知TX可以开始sentstr
+
+11-24
+AE参数调整					下调overexpose ,速度改为P2
+修改相册排序					PlayExe_OnOpen里pFlist->Config  PBX_FLIST_SORT_BY_SN
+去掉后路算法logo					不需要授权的新算法里没有
+解决断开acc再接上弹窗卡死不显示红点的问题		acc on之后关闭弹窗
+点击设置选项文字不动，仍在中间			UI tool
+修复进度条时长问题					在movie usereventCB中的一秒中断里改
+去掉录像分段时长的【关】选项				menusetup
+
+
+11-16
+修改UI，改为11个图标，增加后方来车报警图标		res注释wifi,res item = 6,page=12,calcu = 6, 
+增加前路角度调节功能				参照后路
+11-13
+开启LCA						AV_LCA_FUNC
+
+11-9
+解决坏文件提示照片错误无法操作的问题			坏文件wrnmsg的playchildclose取消再次播放和checkstatus
+
+11-6
+解决切换mode宕机问题				dram分区冲突
+紧急录像，录音，停车监控默认关闭			default_flag
+
+11-2
+取消wifi功能
+去掉相册功能
+优化UI
+10-31
+pool取消yuv压缩
+模式切换中clientopen不执行
+10-30
+前路算法Gsensor阈值改为80
+取消yuv compress，pool也做对应修改
+调整IQ
+10-29
+play界面触控隐藏title
+10-28
+前路ae参数修改
+10-27
+后拉镜像
+后拉角度保存
+关闭停车监控，断开ACC提示“即将关机”
+9-18
+wifi模式下卡慢重新开始录像
+
+9-16
+停车监控最大时间显示为59
+
+9-9
+APP、前路水印改到左下角
+解决APP修改录像时长后在正常模式不生效的问题
+
+9-8
+卡慢时重新开始录像
+连接app增加紧急录像图标
+无卡进相册会提示插入SD卡
+停车监控和录像时长一致
+
+9-7
+画面是前路时，调节画面角度会提示转到后路调节
+
+9-4
+修改连接app死机bug
+
+9-1
+音量默认高
+wifi连接紧急录像提示框和退出wifi提示不再重叠		逻辑错误
+
+8-31
+将后拉录像文件存放在RO文件夹中 		紧急录像要设置为crash
+紧急录像进度条在3，5分钟情况下不能到底端	curtep等于录像秒数
+
+
+8-28
+1、UI弹窗英文提示修改为中文
+2、UI设置界面调整
+3、解决扬声器关闭后，开机仍有声音的问题   
+4、解决app实时流时间水印显示不正确的问题
+5、紧急录像灵敏度默认开启
+6、记录仪断开与app连接后，断开实时流
+7、停车监控紧急录像可手动停止录像
+8、解决app无法查看sd卡中图片的问题
+9、录像文件水印修改为时间水印
+
+8-24
+1、UI界面优化并增加图标；
+2、解决app查看相册直接退出APP，记录仪无法显示相册的问题；
+3、修改自动背光调节亮度；
+4、解决修改录像时长无法录像的问题；
+5、增加进入停车监控的弹窗
+
+8-14
+解决app从相册界面退出后UI显示不完全的问题	//app进入相册后要修改文件目录标志位 g_uiRootDirType 为ROOTDIR_TYPE_MOVIE
+
+8-13
+解决修改录像时长会死机的问题		

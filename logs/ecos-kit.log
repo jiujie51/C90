@@ -1,0 +1,8 @@
+make[1]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/ecos-kit/MakeCommon'
+make[2]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/ecos-kit/Project/eCosKit'
+
+Checking eCos - eCosKit release target ...
+make[3]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/ecos-kit/Project/eCosKit'
+make[3]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/ecos-kit/Project/eCosKit'
+make[2]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/ecos-kit/Project/eCosKit'
+make[1]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/ecos-kit/MakeCommon'

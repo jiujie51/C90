@@ -1,0 +1,1 @@
+../../ARC_eCos/Drv/Release/MODELEXT_MIO_ETHCAM_RX.a ../../ARC_eCos/Drv/Release/Driver_Sys.a 

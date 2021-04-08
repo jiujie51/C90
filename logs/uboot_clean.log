@@ -1,0 +1,11 @@
+make[1]: Entering directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/u-boot'
+  CLEAN   examples/standalone
+  CLEAN   tools/env
+  CLEAN   tools
+  CLEAN   tools/lib tools/common
+  CLEAN   u-boot.lds include/autoconf.mk include/autoconf.mk.dep
+  CLEAN   u-boot.dis u-boot.map u-boot.lz.bin u-boot.srec u-boot.bin u-boot System.map
+  CLEAN   scripts/basic
+  CLEAN   include/config include/generated
+  CLEAN   include/config.h include/config.mk
+make[1]: Leaving directory '/home/zjf/share/work/C90_RX/NVT_NA51023_BSP/NA51023_BSP/u-boot'

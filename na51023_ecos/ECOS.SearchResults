@@ -1,0 +1,6 @@
+---- AISPEECH_AUDPROC_OPEN Matches (5 in 1 files) ----
+Audproc.c (ecos-supplement-mips2\ecos-audproc\packages\nvt\audproc\v2_0_60\src)://#define AISPEECH_AUDPROC_OPEN
+Audproc.c (ecos-supplement-mips2\ecos-audproc\packages\nvt\audproc\v2_0_60\src):#ifdef AISPEECH_AUDPROC_OPEN
+Audproc.c (ecos-supplement-mips2\ecos-audproc\packages\nvt\audproc\v2_0_60\src):#ifdef AISPEECH_AUDPROC_OPEN
+Audproc.c (ecos-supplement-mips2\ecos-audproc\packages\nvt\audproc\v2_0_60\src):#ifdef AISPEECH_AUDPROC_OPEN
+Audproc.c (ecos-supplement-mips2\ecos-audproc\packages\nvt\audproc\v2_0_60\src):#ifdef AISPEECH_AUDPROC_OPEN

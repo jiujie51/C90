@@ -1,0 +1,12 @@
+匹配到二进制文件 ./uitron/ARC_eCos/Lib/Release/AETask.a
+匹配到二进制文件 ./uitron/ARC_eCos/Lib/Release/AE_PROC_NVT.a
+匹配到二进制文件 ./uitron/ARC_eCos/Drv/Release/Driver_Sys.a
+./uitron/Include/Drv/Driver_Sys/pwm.h:extern ER       pwm_pwmReloadConfig(UINT32 uiPWMId, INT32 iRise, INT32 iFall, INT32 iBasePeriod);
+匹配到二进制文件 ./uitron/ARC/Lib/Release/AETask.a
+匹配到二进制文件 ./uitron/ARC/Drv/Release/Driver_Sys.a
+./uitron/LibExt/LibExt_src/PluginAE/ae_proc/ae_proc_nvt/ae_proc_nvt.c:        pwm_pwmReloadConfig(uiPwmOutputPin, -1, drv_ratio, -1);
+匹配到二进制文件 ./uitron/LibExt/LibExt_src/PluginAE/ae_proc/ae_proc_nvt/AE_PROC_NVT_Data/Release/ObjectCode/ae_proc_nvt.o
+./uitron/Project/DemoKit/DemoKit_Data/Release/DemoKit.txt:00a1bad4 g     F .SECTION_10	00000168 pwm_pwmReloadConfig
+./uitron/Project/DemoKit/DemoKit_Data/Release/DemoKit.sym:00a1bad4 T pwm_pwmReloadConfig
+匹配到二进制文件 ./uitron/Project/DemoKit/DemoKit_Data/Release/DemoKit.axf
+匹配到二进制文件 ./uitron/Project/DemoKit/DemoKit_Data/Release/ObjectLds/Driver_Sys/Driver_Sys.a
